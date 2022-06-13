@@ -1,5 +1,5 @@
 ---
-layout: postsss
+layout: post
 title: About the Japanese Colonial Government's Control on Korean Countryside and Korean Reaction to it (in progress)
 cover-img: /assets/img/Biyangdo.jpg
 share-img: /assets/img/Biyangdo.jpg
