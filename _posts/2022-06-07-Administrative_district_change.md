@@ -1,8 +1,9 @@
 ---
 layout: post
 title: About the changes in administration district during the Japanese rule of Korea (in progress)
-categories: Colonial Joseon History
-published: true
+cover-img: /assets/img/Biyangdo.jpg
+share-img: /assets/img/Biyangdo.jpg
+tags: [history, Korea, 20th-century]
 ---
 This is the summary of the paper by Lee Myeong Hak (2020. 05), the title of which is **_<The Reorganization of Administrative Districts and Changes to Their Names during the Japanese Rule --With a focus on Myeons (面)-->_**.
 The reason for reading this paper is to clarify the changes that were executed in rural societies of the Colonial Joseon and understand the motivation for the changes.
