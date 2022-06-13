@@ -20,4 +20,4 @@ In the abstract, the paper is summarized as follows.
 Much of the existing literature fails to show the changes in rural societies under the Japanese colonial rule as a whole. To do this, a classification method is needed to rural societies. In this paper, the criteria of the classification will be the following two: **the extent of the colonial power infiltration to the village** and **the degree of autonomy of the village**. To do this analysis, the auther gathered the information about villages and leaders of villages (about 600 villages and 
 800 leaders).
 
-## II. Theoretical Model $-$ the extent of the colonial power infiltration to the village and the degree of autonomy of the village (Unfinished)
+## II. Theoretical Model--the extent of the colonial power infiltration to the village and the degree of autonomy of the village (Unfinished)
