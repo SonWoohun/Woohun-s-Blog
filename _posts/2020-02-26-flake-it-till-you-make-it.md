@@ -1,17 +1,27 @@
 ---
 layout: post
-title: Flake it till you make it
+title: Kim Min Chul, 2012, Villages at Crossroads, Summary (in progress)
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+cover-img: /assets/img/Biyangdo.jpg
+thumbnail-img: /assets/img/Villages_at_Crossroads_BookCover.jpg
+share-img: /assets/img/Biyangdo.jpg
+image: /assets/img/Villages_at_Crossroads_BookCover.jpg
+tags: [history, Korea, 20th-century]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+## Kim Min Chul, Villages at Crossroads: Colonial Power and Rural Society (2012), Summary
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+![]({{ page.image | relative_url }})
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+## The Reason for Reading This Book
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+I was investigating the reason why some counties ('gun', 郡) built more Japanese Shinto shrines called 'Shinshi' (神祠) than other counties in colonial Korea (Colonial Joseon). While investigating, I became aware of the fact that, for the colonial administration, it would be much easier to build shrines inside or as annexes of the elementary school which were already distributed at least one per town ('myeon', 面) at the point of time in 1936 instead of the detached Shinto shrines. The construction costs will be largely saved and thus conflicts between members of the town that can stem from the imputed costs could be prevented. Actually, there were many cases that the Japanese national symbols were worshiped in elementary schools. Thus, the authority does not necessarily want to spend more money in constructing Shinshi.
+
+At first, I thought that this means that the difference of construction rate between towns cannot be explained solely by the necessity of construction from the perspective of the authority. Instead, I turned my sight to the power game within a town or a county. If the power game inside the domain is involved in this matter, the cost may not be payed by the authority but one of the powers inside the domain. Secondly, there may be possibilities that detached Shinto shrines have more value than the shrines established inside or as annexes of elementary schools, such as more symbolic power can be drawn by the former. To figure out more, I selected this book to have deeper understanding in the inside story of towns and villages.
+
+## Introduction (unfinished)
+
+Analyzing the interaction between a colonial authority and the rural society that is subject to the authority requires solving two-dimensional problem. First dimension is about understanding the type of the colonial authority's power and about scrutinizing specific methods being used to deliver the authority's policy and the effectiveness of them. The second dimension is about understanding how the society under control reacts to the intrusion or forced change driven by a foreign (colonial) authority. The former is the problem of **institution type** and **policy**, while the latter is the problem of **agents** and **interactions**.
+
+In this book, the four subjects are addressed with the scope of village.
+
