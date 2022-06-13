@@ -15,9 +15,9 @@ In the abstract, the paper is summarized as follows.
 
 > Seen from the perspective of 'development', the countryside's responses to the alien influences, that is, the inundation of the colonial rule and commodified money economy, the successfully developed cases of the model villages were resulted from the combination of the village leaders leadership and the villagers' unified efforts. In model villages, renowned leaders and independent farmers led the agricultural reform and other middle-aged town leaders functioned as officials of the youth associations and the Countryside Revival Associations. And the percentage of independent farmers and half-independent farmers in these villages was higher than in other villages, making the unified efforts easier. On the other hand, whether villagers had the same family name or not was also an important factor in a village's response to the colonial rule: the common class, same-family villages responded more actively than the aristocratic, same-family villages; villages with more than two family names.
 
-## Introduction
+## I. Introduction
 
 Much of the existing literature fails to show the changes in rural societies under the Japanese colonial rule as a whole. To do this, a classification method is needed to rural societies. In this paper, the criteria of the classification will be the following two: **the extent of the colonial power infiltration to the village** and **the degree of autonomy of the village**. To do this analysis, the auther gathered the information about villages and leaders of villages (about 600 villages and 
 800 leaders).
 
-## Theoretical Model $-$ the extent of the colonial power infiltration to the village and the degree of autonomy of the village (Unfinished)
+## II. Theoretical Model $-$ the extent of the colonial power infiltration to the village and the degree of autonomy of the village (Unfinished)
