@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Kim Min Chul, 2012, Villages at Crossroads, Summary (in progress)
-subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/Biyangdo.jpg
 thumbnail-img: /assets/img/Villages_at_Crossroads_BookCover.jpg
 share-img: /assets/img/Biyangdo.jpg
