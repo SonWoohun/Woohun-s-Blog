@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Income Mobility in Korea with KLIPS data (in progress)
-cover-img: /assets/img/Biyangdo.jpg
-thumbnail-img: /assets/img/Villages_at_Crossroads_BookCover.jpg
-share-img: /assets/img/Biyangdo.jpg
-image: /assets/img/Villages_at_Crossroads_BookCover.jpg
+cover-img: /assets/img/door-to-nowhere-long.jpg
+share-img: /assets/img/door-to-nowhere-long.jpg
 tags: [economy, inequality, mobility]
 ---
 
