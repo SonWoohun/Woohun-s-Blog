@@ -21,3 +21,5 @@ Much of the existing literature fails to show the changes in rural societies und
 800 leaders).
 
 ## II. Theoretical Model: the extent of the colonial power infiltration to the village and the degree of autonomy of the village (Unfinished)
+
+Hisama Genichi (久間健一), a agricultural bureaucrat of the Government-General, pointed out that the major agents of the colonial agricultural development as **the authorities**, **agricultural organizations**, and **corporate landlords**. The first two can be abstracted as the rule of _Colonial Authorities_, while the last can be called as the rule of _Capital_ on countryside. However, power of these two sources can be diverse depending on the quality of rural society where the rules take place.
