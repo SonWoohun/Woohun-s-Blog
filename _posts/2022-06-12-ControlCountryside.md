@@ -22,4 +22,13 @@ Much of the existing literature fails to show the changes in rural societies und
 
 ## II. Theoretical Model: the extent of the colonial power infiltration to the village and the degree of autonomy of the village (Unfinished)
 
-Hisama Genichi (久間健一), a agricultural bureaucrat of the Government-General, pointed out that the major agents of the colonial agricultural development as **the authorities**, **agricultural organizations**, and **corporate landlords**. The first two can be abstracted as the rule of _Colonial Authorities_, while the last can be called as the rule of _Capital_ on countryside. However, effectiveness of infiltration from these two sources can change depending on the quality of rural society where the rule take place.
+Hisama Genichi (久間健一), a agricultural bureaucrat of the Government-General, pointed out that the major agents of the colonial agricultural development as **the authorities**, **agricultural organizations**, and **corporate landlords**. The first two can be abstracted as the rule of _Colonial Authorities_, while the last can be called as the rule of _Capital_ on countryside. However, effectiveness of infiltration from these two sources can change depending on the quality of rural society where the rule take place. This is because the agents inside the countryside reacts differently to those rules.
+
+The author of this paper suggests four factors that determines the countryside's reaction.
+1. How autonomous are peasants in the rural society that confronts colonial authorities and capital's intrusion.
+1. Which does the leader of the rural society represent? The colonial authority or the members of the village?
+1. Which organization leads the village development project? The government's or the village's?
+1. Is the rural society aristocratic (exclusive) or plebeian (open)?
+
+To put all these factor together, consider a quadrant of which horizontal axis represents **the extent of the colonial power (capital) infiltration to the village** and vertical axis represents **the degree of autonomy of the village**.
+
