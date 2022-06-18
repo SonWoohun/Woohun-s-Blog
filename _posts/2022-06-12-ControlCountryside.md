@@ -1,9 +1,9 @@
 ---
 layout: post
 title: About the Japanese Colonial Government Control on Korean Countryside and Korean Reaction to it (in progress)
-cover-img: /assets/img/VillageType.pdf
-share-img: /assets/img/VillageType.pdf
-image: /assets/img/VillageType.pdf
+cover-img: /assets/img/VillageType.jpg
+share-img: /assets/img/VillageType.jpg
+image: /assets/img/VillageType.jpg
 tags: [history, Korea, 20th-century]
 usemathjax: true
 ---
@@ -34,4 +34,4 @@ The author of this paper suggests four factors that determines the countryside's
 
 To put all these factor together, consider a quadrant of which horizontal axis represents **the extent of the colonial power (capital) infiltration to the village** and vertical axis represents **the degree of autonomy of the village**.
 
-<object data="/assets/img/VillageType.pdf" width="500" height="500" type='application/pdf'></object>
+![Village Types](/assets/img/VillageType.jpg)
