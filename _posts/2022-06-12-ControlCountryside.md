@@ -1,8 +1,9 @@
 ---
 layout: post
 title: About the Japanese Colonial Government Control on Korean Countryside and Korean Reaction to it (in progress)
-cover-img: /assets/img/Biyangdo.jpg
-share-img: /assets/img/Biyangdo.jpg
+cover-img: /assets/img/VillageType.pdf
+share-img: /assets/img/VillageType.pdf
+image: /assets/img/VillageType.pdf
 tags: [history, Korea, 20th-century]
 ---
 This is the summary of the paper by Kim Min-chul (2010), the title of which is **_<Japanese Colonial Government--General's Control of Korean Countryside and Korean Reaction to It>_**.
@@ -32,3 +33,4 @@ The author of this paper suggests four factors that determines the countryside's
 
 To put all these factor together, consider a quadrant of which horizontal axis represents **the extent of the colonial power (capital) infiltration to the village** and vertical axis represents **the degree of autonomy of the village**.
 
+![Village Types]({{ page.image | relative_url }})
