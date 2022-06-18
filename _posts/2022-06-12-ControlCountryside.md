@@ -5,9 +5,10 @@ cover-img: /assets/img/VillageType.pdf
 share-img: /assets/img/VillageType.pdf
 image: /assets/img/VillageType.pdf
 tags: [history, Korea, 20th-century]
+usemathjax: true
 ---
 This is the summary of the paper by Kim Min-chul (2010), the title of which is **_<Japanese Colonial Government--General's Control of Korean Countryside and Korean Reaction to It>_**.
-The purpose of reading this paper is to classify rural villages at the time $-$ which is beautifully done in this paper $-$ and understand how the type of a village would have affect the construction of Shinto shrines.
+The purpose of reading this paper is to classify rural villages at the time -- which is beautifully done in this paper -- and understand how the type of a village would have affect the construction of Shinto shrines.
 
 ## Abstract
 
