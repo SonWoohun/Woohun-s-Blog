@@ -29,9 +29,22 @@ Hisama Genichi (久間健一), a agricultural bureaucrat of the Government-Gener
 The author of this paper suggests four factors that determines the countryside's reaction.
 1. How autonomous are peasants in the rural society that confronts colonial authorities and capital's intrusion.
 1. Which does the leader of the rural society represent? The colonial authority or the members of the village?
-1. Which organization leads the village development project? The government's or the village's?
+1. Which organization leads the village development project? 
+The government's or the village's?
 1. Is the rural society aristocratic (exclusive) or plebeian (open)?
 
 To put all these factor together, consider a quadrant of which horizontal axis represents **the extent of the colonial power (capital) infiltration to the village** and vertical axis represents **the degree of autonomy of the village**.
 
 <img src="/assets/img/VillageType.jpg" width="50%" height="50%">
+
+As can be seen in the image above, dividing each axis into two parts--high or low--the quadrant can be classified into four types.
+1. Type 1 (low, high): Villages in this type are where the infiltration by the administration or capital was rather progressed, while the autonomy of the villages are weak.
+- examples: Villages where Colonial landlord system entrenched, where the Government-General supported deliberately because the villages were active in the national or social movement, or where agricultural organizations concentrated on the agricultural development.
+2. Type 2 (high, high): Villages in this type shows active interactions with the government, since the villages and the Government-General regards each other useful.
+- examples: Villages the Government-General selected to be a model village for other villages (the model-villages).
+3. Type 3 (low, low): Villages in Type 3 are likely to be in the remote sites where the administrative powers cannot easily access. Also, there may be no self-governing community nor leader in the villages.
+- examples: Villages that have the high level of limitation that stems from geopolitical factors.
+4. Type 4 (high, low): Villages in this type shows strong level of autonomy, while the administrative powers are less infiltrated.
+- examples: Villages that preserves the traditional autonomy like villages of 'Yangban (traditional elites of Joseon)' or that were constructed deliberately for special purpose like religious matters.
+
+<img src="/assets/img/VillageTypeRepresentatives.jpg" width="50%" height="50%">
