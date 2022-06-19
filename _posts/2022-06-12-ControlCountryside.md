@@ -47,4 +47,4 @@ As can be seen in the image above, dividing each axis into two parts--high or lo
 4. Type 4 (high, low): Villages in this type shows strong level of autonomy, while the administrative powers are less infiltrated.
 - examples: Villages that preserves the traditional autonomy like villages of 'Yangban (traditional elites of Joseon)' or that were constructed deliberately for special purpose like religious matters.
 
-<img src="/assets/img/VillageTypeRepresentatives.jpg" width="50%" height="50%">
+<img src="/assets/img/VillageTypeRepresentatives.jpg" width="100%" height="100%">
