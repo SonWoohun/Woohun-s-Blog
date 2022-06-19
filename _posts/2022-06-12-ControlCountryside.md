@@ -35,3 +35,5 @@ The author of this paper suggests four factors that determines the countryside's
 To put all these factor together, consider a quadrant of which horizontal axis represents **the extent of the colonial power (capital) infiltration to the village** and vertical axis represents **the degree of autonomy of the village**.
 
 ![Village Types](/assets/img/VillageType.jpg)
+
+<img src="/assets/img/VillageType.jpg" width="30%" height="30%">
