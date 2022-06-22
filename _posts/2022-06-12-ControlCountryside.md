@@ -56,3 +56,20 @@ As can be seen in the image above, dividing each axis into two parts--high or lo
 The Villages in Type 1 can be reclassified into two categories with the criterion of which of the two powers is dominant, the capital (**_farm-centered_**) or the administration (**_bureaucratic_**). Again, the farm-centered type can be subdivided into three cases and the bureaucratic type into two cases as below.
 
 ![](/assets/img/Village_Type1_Tree_H.jpg)
+
+### 2. The model village type (Type 2)
+
+
+### 3. The undeveloped village type (Type 3)
+
+
+### 4. The autonomic village type (Type 4)
+
+
+
+## IV. Reactions of Rural Societies and Rural Leaders
+
+
+
+
+## V. Conclusion
