@@ -53,4 +53,4 @@ As can be seen in the image above, dividing each axis into two parts--high or lo
 
 ### 1. The farm-centered type and the bureaucratic type (Type 1)
 
-The Villages in Type 1 can be reclassified into two categories with the criterion of which of the two powers is dominant, the capital (**_farm-centered_**) or the administration (**_bureaucratic_**).
+The Villages in Type 1 can be reclassified into two categories with the criterion of which of the two powers is dominant, the capital (**_farm-centered_**) or the administration (**_bureaucratic_**). Again, the farm-centered type can be subdivided into three cases and the bureaucratic type into two cases as below.
