@@ -35,7 +35,7 @@ The government's or the village's?
 
 To put all these factor together, consider a quadrant of which horizontal axis represents **the extent of the colonial power (capital) infiltration to the village** and vertical axis represents **the degree of autonomy of the village**.
 
-<img src="/assets/img/VillageType.jpg" width="50%" height="50%">
+![](/assets/img/VillageType.jpg)
 
 As can be seen in the image above, dividing each axis into two parts--high or low--the quadrant can be classified into four types.
 1. Type 1 (low, high): Villages in this type are where the infiltration by the administration or capital was rather progressed, while the autonomy of the villages are weak.
