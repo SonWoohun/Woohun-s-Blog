@@ -75,6 +75,17 @@ The author also omits the subtypes for this village type. Villages of this type 
 
 ## IV. Reactions of Rural Societies and Rural Leaders (Unfinished)
 
+According to the author, the village types mentioned until now and the types of leadership are highly associated. The relationship between the village types and the leadership types can be summarized as below.
+
+![](/assets/img/Relation_Village_Leadership.jpg)
+
+In the farm-centered type, the farm owners and supervisors of the farm interfered from deciding what kind of crop to grow to how villagers should maintain their daily lives. For the bureaucratic type, the Government-General's concentrative support grew the power of district leaders or model farmers within the society. When fortune followed, these villages successfully developed into a model village by promoting their villagers to cooperate. In the undeveloped village type, the low level of intrusion was made by the district leader since there was no good things that can be fruited from the villages. Lastly, in the autonomic villages, the elderlies from the families with traditional power in the village walked over the administrative officials, regarding them as just messagers.
+
+Meanwhile, we need to focus on the class distribution within a village to understand the village properly. The conformity of the villagers in farm-centered type might be possible because most of them were poor sharecroppers. Whereas the type in which villagers were active and showed cooperative spirit would be the model village type since most of the villagers of this type shared common interests that stemmed from the common classes, i.e., independent or partly independent farmers (who had some sharecropping lands). These classes charged a larger proportion in the model villages--the national average of independent and partly independent farmers was 43.4%, while the counterpart of the model villages was 54.6% in 1933. Along with the local leadership that connects the ends of the administration and one's village, this cooperativity of the villagers made the village a paragon for the Government-General's purpose of ruling the tiny branches within rural societies.
+
+Another thing that deserves attention is the family distribution of a village. 
+
+
 
 
 
