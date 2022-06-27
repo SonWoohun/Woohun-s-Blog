@@ -71,7 +71,7 @@ The author does not provide the subtypes for this village type. From the provide
 
 ### 4. The autonomic village type (Type 4)
 
-The author also omits the subtypes for this village type. However, the autonomy of these villages does not dominate the authority's policy. Some villages diminished after the wartime regime, and others had to meet the authority's demands during the rural development movement.
+The author also omits the subtypes for this village type. Villages of this type tend to have decisive leadership with a solid right to speak against administrations. Moreover, the power of traditional leaders--the "elder" of villages--dominates the counterpart of officers of the rural administration. However, the autonomy of these villages does not dominate the governmental policy. Some villages diminished after the wartime regime, and others had to meet the authority's demands during the rural development movement.
 
 ## IV. Reactions of Rural Societies and Rural Leaders (Unfinished)
 
