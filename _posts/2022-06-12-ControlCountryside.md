@@ -49,7 +49,7 @@ As can be seen in the image above, dividing each axis into two parts--high or lo
 
 ![](/assets/img/VillageTypeRepresentatives.jpg)
 
-## III. Village Types and Realities of Villages (Unfinished)
+## III. Village Types and Realities of Villages
 
 In this section, the subtypes of the village types suggested upon is represented and then some concrete examples are given for each subtypes. I will omit the example part and exhibit the subdivided village types with categoric branches.
 
@@ -67,13 +67,13 @@ It is probable to assume that villages with great deal of autonomy would likely 
 
 ### 3. The undeveloped village type (Type 3)
 
-The subtypes for this village type is not provided. 
+The author does not provide the subtypes for this village type. From the provided example of a village of this type, the author focuses on the high mobility in population shift and the absence of leadership--for example, the long-lasting antagonism between the traditional leading groups--as social factors that induced the village type.
 
 ### 4. The autonomic village type (Type 4)
 
+The author also omits the subtypes for this village type. However, the autonomy of these villages does not dominate the authority's policy. Some villages diminished after the wartime regime, and others had to meet the authority's demands during the rural development movement.
 
-
-## IV. Reactions of Rural Societies and Rural Leaders
+## IV. Reactions of Rural Societies and Rural Leaders (Unfinished)
 
 
 
