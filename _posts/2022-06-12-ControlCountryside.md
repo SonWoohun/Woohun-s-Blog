@@ -100,3 +100,4 @@ Most Model villages are from 'Gak Seong Chon' with appropriate leaders. Some ari
 ## V. Conclusion
 
 Just a summary of I.~IV.
+
