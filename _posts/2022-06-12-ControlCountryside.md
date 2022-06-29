@@ -1,8 +1,8 @@
 ---
 layout: post
 title: About the Japanese Colonial Government Control on Korean Countryside and Korean Reaction to it (in progress)
-cover-img: /assets/img/VillageType.jpg
-share-img: /assets/img/VillageType.jpg
+cover-img: /assets/img/Joseon_family_laboring.jpg
+share-img: /assets/img/Joseon_family_laboring.jpg
 image: /assets/img/VillageType.jpg
 tags: [history, Korea, 20th-century]
 usemathjax: true
@@ -83,7 +83,9 @@ In the farm-centered type, the farm owners and supervisors of the farm interfere
 
 Meanwhile, we need to focus on the class distribution within a village to understand the village properly. The conformity of the villagers in farm-centered type might be possible because most of them were poor sharecroppers. Whereas the type in which villagers were active and showed cooperative spirit would be the model village type since most of the villagers of this type shared common interests that stemmed from the common classes, i.e., independent or partly independent farmers (who had some sharecropping lands). These classes charged a larger proportion in the model villages--the national average of independent and partly independent farmers was 43.4%, while the counterpart of the model villages was 54.6% in 1933. Along with the local leadership that connects the ends of the administration and one's village, this cooperativity of the villagers made the village a paragon for the Government-General's purpose of ruling the tiny branches within rural societies.
 
-Another thing that deserves attention is the family distribution of a village. 
+Another thing that deserves attention is the family distribution of a village. The family distribution of a village per se does not seem to account for much about the success of the development of the village. However, when jointly considered with the attitude of leadership of the society, it does show some trends.
+
+The family distribution of a village can be largely divided into two categories, the village with dominant families (which is called 'Dong Seong Chon' and means village whose members are connected with one or more lineage) and the village with many families (which is called 'Gak Seong Chon' and means village whose members does not share common family names). 
 
 
 
