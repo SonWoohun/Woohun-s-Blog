@@ -73,7 +73,7 @@ The author does not provide the subtypes for this village type. From the provide
 
 The author also omits the subtypes for this village type. Villages of this type tend to have decisive leadership with a solid right to speak against administrations. Moreover, the power of traditional leaders--the "elder" of villages--dominates the counterpart of officers of the rural administration. However, the autonomy of these villages does not dominate the governmental policy. Some villages diminished after the wartime regime, and others had to meet the authority's demands during the rural development movement.
 
-## IV. Reactions of Rural Societies and Rural Leaders (Unfinished)
+## IV. Reactions of Rural Societies and Rural Leaders
 
 According to the author, the village types mentioned until now and the types of leadership are highly associated. The relationship between the village types and the leadership types can be summarized as below.
 
@@ -93,10 +93,9 @@ The overall relationship between the family distribution of villages, the leader
 
 ![](/assets/img/FamilyType_Leadership_Development.jpg)
 
+![](/assets/img/FamilyType_Leadership_Development_Tree_V.jpg)
 
-
-
-
+Most of the Model villages are from 'Gak Seong Chon' with appropriate leaders. Some aristocratic villages leaded by a unique dominant family became Model village as well but accounted for small proportion of the total.
 
 ## V. Conclusion
 
