@@ -85,10 +85,19 @@ Meanwhile, we need to focus on the class distribution within a village to unders
 
 Another thing that deserves attention is the family distribution of a village. The family distribution of a village per se does not seem to account for much about the success of the development of the village. However, when jointly considered with the attitude of leadership of the society, it does show some trends.
 
-The family distribution of a village can be largely divided into two categories, the village with dominant families (which is called 'Dong Seong Chon' and means village whose members are connected with one or more lineage) and the village with many families (which is called 'Gak Seong Chon' and means village whose members does not share common family names). 
+The family distribution of a village can be largely divided into two categories, the village with dominant families (which is called 'Dong Seong Chon' and means village whose members are connected with one or more lineage) and the village with many families (which is called 'Gak Seong Chon' and means village whose members does not share common family names). Mostly, villages of 'Gak Seong Chon' was plebeian, while villages of 'Dong Seong Chon' can be subdivided into aristocratic villages and plebeian villages. In addition, the aristocratic 'Dong Seong Chon' also has another criteria of subdividing, i.e., whether the dominant family is unique or not.
+
+In most of the case studies, 'Dong Seong Chon' with more than two dominant families seemed to have bad outcomes in terms of the development of the rural society. The conflict between the families were allegedly to blame for the hardship of development. For 'Dong Seong Chon' with the unique dominant family, the success of the development was highly dependent on the characteristic of the leader. When the leader was active and positive toward the policy support, the village was prone to achieve the title of 'Model Village.' On the other hand, if the leader was passive and defensive toward the intrusion of capital or the authority, the development was slow or not successful.
+
+The overall relationship between the family distribution of villages, the leadership, and development can be exhibited as the table and the categoric branch below.
+
+![](/assets/img/FamilyType_Leadership_Development.jpg)
+
 
 
 
 
 
 ## V. Conclusion
+
+Just a summary of I.~IV.
