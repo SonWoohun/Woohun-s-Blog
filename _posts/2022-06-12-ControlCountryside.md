@@ -3,7 +3,6 @@ layout: post
 title: About the Japanese Colonial Government Control on Korean Countryside and Korean Reaction to it
 cover-img: /assets/img/Joseon_family_laboring.jpg
 share-img: /assets/img/Joseon_family_laboring.jpg
-image: /assets/img/VillageType.jpg
 tags: [history, Korea, 20th-century]
 usemathjax: true
 ---
