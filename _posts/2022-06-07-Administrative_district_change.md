@@ -23,7 +23,9 @@ In most of the cases, the authority had to merge two or more Myeons into one, wh
 
 ### 1) Issues with the existing administrative district and social consensus of the revision
 
+First of all, the revision that took place can be organized as the table below. We will account for the important changes in the revision that deserves attention.
 
+![](/assets/img/District_Change_Timeline.jpg)
 
 ### 2) The expedient policy and polarization of the terminal administration districts
 
