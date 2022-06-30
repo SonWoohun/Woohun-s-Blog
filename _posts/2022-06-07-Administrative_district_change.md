@@ -17,5 +17,20 @@ In the abstract, the paper is summarized as follows.
 
 The Government-General of Chosen implemented the first administrative district revision in 1914, intending to make each administrative districts that give equal tax revenue. However, such revision was not constructed on the actual administrative needs; thus, Myeons that cannot meet their own expense increased. In reaction to the situation, the authority revised the administrative district rather than implementing a local finance mediation system. The decision was because the Government-General preferred central finance to local finance and was unaware of the importance of local financial balance. Therefore, the foreign government started the revision project on a full scale in the late 1920s.
 
-In most of the cases, the authority had to merge two or more Myeons into one, which outbroke the issue of which name should be used. For the villagers at the time, the name of their Myeon (which is about a scale of town) was touchy matter, since their original name contains the identification of the members. The problem of naming the merged Myeons demanded understandable criteria for the villagers. This is why studying the district revision of 1920s are critical in comprehanding the rural governing system.
+In most of the cases, the authority had to merge two or more Myeons into one, which outbroke the issue of which name should be used. For the villagers at the time, the name of their Myeon (which is about a scale of town) was touchy matter, since their original name contains the identification of the members. The problem of naming the merged Myeons demanded understandable criteria for the villagers. This is why studying the district revision of 1920s are critical in comprehending the rural governing system.
 
+## 2. The Discussion for the Revision of District and Its Trend (Unfinished)
+
+### 1) Issues with the existing administrative district and social consensus of the revision
+
+
+
+### 2) The expedient policy and polarization of the terminal administration districts
+
+## 3. Merge of Myeons and Change in Their Names
+
+### 1) Clearance of weak Myeons and enlargement of cities
+
+### 2) Enhancement of relevance of social reality and administrative efficiency
+
+## 4. Conclusion
