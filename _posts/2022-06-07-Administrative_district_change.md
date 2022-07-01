@@ -23,9 +23,15 @@ In most of the cases, the authority had to merge two or more Myeons into one, wh
 
 ### 1) Issues with the existing administrative district and social consensus of the revision
 
-First of all, the revision that took place can be organized as the table below. We will account for the important changes in the revision that deserves attention.
+First of all, the revision that took place can be organized as the table below. We will account for the important changes in the revision that deserves attention. 
+
+Before delivering the content in the paper, I will address some prerequisites. To understand the local administrative district system properly, the comprehension of hierarchy of local district is needed. The largest district is 'Do', which can be thought of as province. 'Gun' is the next largest district but it does not contain 'Bu', and thus 'Bu' and 'Gun' can be regarded as equivalent with respect to the class of district. 'Gun' and 'Bu' together compose 'Do'. Again, 'Myeon' and 'Eup' compose 'Gun'. 'Myeon' can be considered as town while 'Eup' is a little developed than 'Myeon'. Conveniently, Eup can be seen as a district class that is between Myeon and Bu, but cannot standalone as Bu.
+
+'Do (道)'-'Bu (府)'-'Gun (府)'-'Eup (邑)'-'Myeon (面)' are terms that were already being used in the Joseon dynasty, but some of them changed it's concept. 'Bu' were similar with 'Gun' in their composition. They had a large city and several 'Myeon's. But after the revision in 1914, only the large city inside the traditional 'Bu' were classified as 'Bu' and the Myeons inside it are reclassified into 'Gun' around the 'Bu'. Moreover, 'Eup' was a term that indicates the several types of small districts such as town or village etc. So we need to bear in mind that the terms we are using cannot be stretched to other period of time.
 
 ![](/assets/img/District_Change_Timeline.jpg)
+
+
 
 ### 2) The expedient policy and polarization of the terminal administration districts
 
