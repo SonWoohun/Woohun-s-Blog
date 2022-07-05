@@ -33,17 +33,18 @@ Before delivering the content in the paper, I will address some prerequisites. T
 
 Now let's begin the content of this subsection.
 
-The directions of the administrative district revision in 1910s can be classified into two branches shown below.
+The directions of the administrative district revision in the 1910s can be classified into two branches below.
 
 ![](/assets/img/Revision_Direction_1910s.jpg)
 
-As can be seen in the diagram, the intentions for the revisions in 1910s were not based an the real problems the inhabitants suffered. They were close to paper administration. The revision held in 1914 even did not had proper map to contemplate for the work.
+As seen in the diagram, the intentions for the revisions in the 1910s have not been based on the real problems the inhabitants suffered. They were close to paper administration. The revision held in 1914 even did not have a proper map to contemplate for the work.
 
-The two problems can be suggested for the revisions in 1910s. First, the selection of administrative district was inappropriate, i.e., the real life area was frequently discordant with the administrative district. This was because most of the borderlines were drawn running along streams and rivers. However, mountains were not considered, which were one of the toughest barrier that divides life zone.
+The two problems can be suggested for the revisions in the 1910s. First, the selection of the administrative district was inappropriate, i.e., the real-life area was frequently discordant with the administrative district. This was because most borderlines were drawn running along streams and rivers. However, mountains, one of the toughest barriers dividing the life zone, were not considered.
 
-Second, in many Myeons, the local finance of those became very weak. The problem stems from the fact that the criteria for rearrangement of space were anachronistic. Because of the rapid change in Myeon's expense, the district should be carefully selected considering an elastic adjustment of tax revenue. However, the criteria used for the revision did not provide the elasticity of tax revenue.
+Second, in many Myeons, the local finance became very weak. The problem stems from the fact that the criteria for rearrangement of space were anachronistic. Because of the rapid change in Myeon's expense, the district should be carefully selected, considering an elastic adjustment of tax revenue. However, the criteria used for the revision did not provide the elasticity of tax revenue.
 
-Because of two problems, the re-revision of administrative district became an issue.
+Because of two problems, the re-revision of the administrative district became an issue.
+
 
 ### 2) The expedient policy and polarization of the terminal administration districts
 
