@@ -19,7 +19,7 @@ The Government-General of Chosen implemented the first administrative district r
 
 In most of the cases, the authority had to merge two or more Myeons into one, which outbroke the issue of which name should be used. For the villagers at the time, the name of their Myeon (which is about a scale of town) was touchy matter, since their original name contains the identification of the members. The problem of naming the merged Myeons demanded understandable criteria for the villagers. This is why studying the district revision of 1920s are critical in comprehending the rural governing system.
 
-## 2. The Discussion for the Revision of District and Its Trend (Unfinished)
+## 2. The Discussion for the Revision of District and Its Trend
 
 ### 1) Issues with the existing administrative district and social consensus of the revision
 
@@ -45,13 +45,19 @@ Second, in many Myeons, the local finance became very weak. The problem stems fr
 
 Because of the two problems, the re-revision of the administrative district became an issue.
 
-
-
 ### 2) The expedient policy and polarization of the terminal administration districts
 
-## 3. Merge of Myeons and Change in Their Names
+The Government-General of Chosen underlined the stable management of Myeons. Among possible solutions, changing priority of finance from the central government to the local governments could be a fundamental solution that did not need revision of administrative district. The solution includes ease of local levy restrictions, consistent subsidies, and supports for local officials' wage.
+
+However, the Government-General refused to reduce the concentration of finance to the center. The authority rather preferred the concentration to cope with the increase in local expenditure. Moreover, the only subsidy allowed by the authority was for support of grand scale SOC (Social Overhead Capital) investments. Therefore, the available two solutions for the problems were total revision of local districts and reorganization of problematic districts. The former entails 'political affair,' since such revision frequently involves adjustments of interests. As a result of the Government-General's favor of expediency, the later was chosen.
+
+We can see the consequences of the policy choice in the first table. From the table, we can see that in 1917-1927, the selected Myeons⋅Eup increases, while merges of ordinary Myeons were dull due to the authority's guideline not to allow them unless for special cases. From 1928 to 1936, this trend breaks. The merges of Myeons are active due to the reorganization of problematic districts as a result of the process above. The tendency sustains until 1945 and moreover, Bu and Eup soars due to industrialization of northern cities during wartime condition. The development of Bu and Eup even accelerated the decrease of Myeons, since they absorb Myeons nearby.
+
+## 3. Merge of Myeons and Change in Their Names (Unfinished)
 
 ### 1) Clearance of weak Myeons and enlargement of cities
+
+Myeons had their original services and had services that were received by the upper class administrations, such as social id, taxing, and election service.
 
 ### 2) Enhancement of relevance of social reality and administrative efficiency
 
