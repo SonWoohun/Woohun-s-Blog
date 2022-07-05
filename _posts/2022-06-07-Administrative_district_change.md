@@ -43,7 +43,8 @@ The two problems can be suggested for the revisions in the 1910s. First, the sel
 
 Second, in many Myeons, the local finance became very weak. The problem stems from the fact that the criteria for rearrangement of space were anachronistic. Because of the rapid change in Myeon's expense, the district should be carefully selected, considering an elastic adjustment of tax revenue. However, the criteria used for the revision did not provide the elasticity of tax revenue.
 
-Because of two problems, the re-revision of the administrative district became an issue.
+Because of the two problems, the re-revision of the administrative district became an issue.
+
 
 
 ### 2) The expedient policy and polarization of the terminal administration districts
