@@ -47,41 +47,41 @@ Because of the two problems, the re-revision of the administrative district beca
 
 ### 2) The expedient policy and polarization of the terminal administration districts
 
-The Government-General of Chosen underlined the stable management of Myeons. Among possible solutions, changing priority of finance from the central government to the local governments could be a fundamental solution that did not need revision of administrative district. The solution includes ease of local levy restrictions, consistent subsidies, and supports for local officials' wage.
+The Government-General of Chosen underlined the stable management of Myeons. Among possible solutions, changing the priority of finance from the central government to the local governments could be a fundamental solution that did not need revision of the administrative district. The solution includes ease of local levy restrictions, consistent subsidies, and supports for local officials' wage.
 
-However, the Government-General refused to reduce the concentration of finance to the center. The authority rather preferred the concentration to cope with the increase in local expenditure. Moreover, the only subsidy allowed by the authority was for support of grand scale SOC (Social Overhead Capital) investments. Therefore, the available two solutions for the problems were total revision of local districts and reorganization of problematic districts. The former entails 'political affair,' since such revision frequently involves adjustments of interests. As a result of the Government-General's favor of expediency, the later was chosen.
+However, the Government-General refused to reduce the finance concentration to the center. The authority rather preferred the concentration to cope with the increase in local expenditure. Moreover, the only subsidy allowed by the authority was for the support of grand-scale SOC (Social Overhead Capital) investments. Therefore, two solutions to the problems were a total revision of local districts and reorganization of problematic districts. The former entails a 'political affair' since such revision frequently involves adjustments of interests. As a result of the Government-General's favor of expediency, the authority chose the latter.
 
-We can see the consequences of the policy choice in the first table. From the table, we can see that in 1917-1927, the selected Myeons⋅Eup increases, while merges of ordinary Myeons were dull due to the authority's guideline not to allow them unless for special cases. From 1928 to 1936, this trend breaks. The merges of Myeons are active due to the reorganization of problematic districts as a result of the process above. The tendency sustains until 1945 and moreover, Bu and Eup soars due to industrialization of northern cities during wartime condition. The development of Bu and Eup even accelerated the decrease of Myeons, since they absorb Myeons nearby.
+We can see the consequences of the policy choice in the first table. From the table, we can see that in 1917-1927, the selected Myeons⋅Eup increased, while mergers of ordinary Myeons were dull due to the authority's guideline not to allow them unless for exceptional cases. From 1928 to 1936, this trend breaks. The mergers of Myeons are active due to the reorganization of problematic districts due to the process above. The tendency continues until 1945, and Bu and Eup soar due to the industrialization of northern cities during wartime. The development of Bu and Eup even accelerated the decrease of Myeons since they absorb Myeons nearby.
 
 ## 3. Merge of Myeons and Change in Their Names (Unfinished)
 
 ### 1) Clearance of weak Myeons and enlargement of cities
 
-Myeons had their original services and had services that were received by the upper class administrations, such as social id, taxing, and election service. Thus, the administrative power of Myeons critically affected the Government-General's colonial rule of Joseon. The authority increased the number of local officials per Myeon (who were called 'Myeon Seo-ki') from 3.62 to 5.19 in average. The increase in the number leads to the increase in levy of the members of a Myeon.
-
-However, the villagers in Myeon were already bearing cumbersome burden because of the soar in levy that stemmed from the construction of elementary schools for Joseon people. The situation led the Government-General to determine the revision policy that includes the merge of Myeons.
-
-As the merge of Myeons become visible, the people of Myeons started social movements to avoid possible burden they may carry. Especially, in the 1930s, two affairs spark up such acts.
+Myeons had their original services and services received from the upper-class administrations, such as social id, taxing, and election service. Thus, the administrative power against the Myeons critically affected the Government-General's colonial rule of Joseon. The authority increased the number of local officials per Myeon (called 'Myeon Seo-ki') from 3.62 to 5.19 on average. An increase in the number increases the levy of the members of a Myeon.
+ 
+However, the villagers in Myeon were already bearing a cumbersome burden because of the soar in the levy that stemmed from the construction of elementary schools for the Joseon people. The situation led the Government-General to determine a revision policy that includes the merger of the Myeons.
+ 
+As the merger of the Myeons became visible, the people of Myeons started social movements to avoid any possible burden they may carry. Especially in the 1930s, two affairs spark up such acts.
 
 ![](/assets/img/Affairs_1930s.jpg)
 
-To cope with these two problems, the authority had to again come up with the merge of Myeons. By merging weak Myeons, the Government-General could met the end of constructing elementary school per Myeon faster. Moreover, by the merge with the richer Myeons, the poorer Myeons could disperse their levy since some of the taxes were imposed with respect to assets. As a result, in the perspective of the authority, merge of Myeons became the most favorable selection and led them to the second revision of local districts.
-
-The further increase in financial pressure in the late 1930s stimulated the third revision. The two backgrounds that induced the increase are as follows.
+To cope with these two problems, the authority had to make the merger of Myeons again. By merging weak Myeons, the Government-General could meet the end of constructing an elementary school per Myeon faster. Moreover, by the merger with the richer Myeons, the poorer Myeons could disperse their levy since the authority imposed some taxes on assets. As a result, in the authority's perspective, the merger of the Myeons became the most favorable selection and led them to the second revision of local districts.
+ 
+A further increase in financial pressure in the late 1930s stimulated the third revision. The two backgrounds that induced the increase are as follows.
 
 ![](/assets/img/Affairs_late_1930s.jpg)
 
-Thus, as presented in the first table, the number of Myeons decreased through out the Japanese rule over Joseon. In the perspective of Do (province), the decrease was severe in the northern 'Do's than in the southern. This was because of the relative speed of industrialization. 'Bu's in the north developed quickly, since more factories and plants were established due to the plentiful resources in the north. Moreover, due to the geographical feature that mountains are distributed mostly in the north, Myeons in the north were naturally weaker than those in the south.
+Thus, as presented in the first table, the number of Myeons decreased throughout the Japanese rule over Joseon. In the perspective of Do (province), the decrease was more severe in the northern 'Do's than in the southern. This was because of the relative speed of industrialization. 'Bu's in the north developed quickly since more factories and plants were established due to the plentiful resources in the north. Moreover, since the geographical feature that mountains are distributed mostly in the north, Myeons in the north were naturally weaker than those in the south.
 
 ### 2) Enhancement of relevance of social reality and administrative efficiency
 
-During the merge of Myeons, the problem of the selection of names made an issue. For those who reside in the weak Myeons, the weakness in financial power did not meant the weakness in their local identity. In order to avoid conflicts that may break out, the Government-General came up with the three criteria.
-
+During the merger of the Myeons, the problem of the selection of names became an issue. For those who resided in the weak Myeons, the weakness in financial power did not mean weakness in their local identity. The Government-General suggested three criteria to avoid conflicts that may break out.
+ 
 1. Priority to the better (stronger in political power or wealthier) Myeons
 1. Mechanical eclecticism (such as pulling one term from each Myeon)
 1. The use of endemic features (using a name of landscape that is familiar for both Myeons)
-
-For further study, the investigation of social movement that pertains to the naming of merged Myeons may become a good paragon for colonial administrative process.
+ 
+For further study, investigating social movements pertaining to the naming of merged Myeons may become a good paragon for colonial administrative processes.
 
 ## 4. Conclusion
 
