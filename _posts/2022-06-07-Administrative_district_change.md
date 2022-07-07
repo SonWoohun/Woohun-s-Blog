@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About the changes in administration district during the Japanese rule of Korea (in progress)
+title: About the changes in administration district during the Japanese rule of Korea
 cover-img: /assets/img/Map-Japan-Imperialism.jpg
 share-img: /assets/img/Map-Japan-Imperialism.jpg
 tags: [history, Korea, 20th-century]
@@ -53,7 +53,7 @@ However, the Government-General refused to reduce the finance concentration to t
 
 We can see the consequences of the policy choice in the first table. From the table, we can see that in 1917-1927, the selected Myeons⋅Eup increased, while mergers of ordinary Myeons were dull due to the authority's guideline not to allow them unless for exceptional cases. From 1928 to 1936, this trend breaks. The mergers of Myeons are active due to the reorganization of problematic districts due to the process above. The tendency continues until 1945, and Bu and Eup soar due to the industrialization of northern cities during wartime. The development of Bu and Eup even accelerated the decrease of Myeons since they absorb Myeons nearby.
 
-## 3. Merge of Myeons and Change in Their Names (Unfinished)
+## 3. Merge of Myeons and Change in Their Names
 
 ### 1) Clearance of weak Myeons and enlargement of cities
 
