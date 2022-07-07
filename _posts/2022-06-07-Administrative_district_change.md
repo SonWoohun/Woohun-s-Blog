@@ -1,8 +1,8 @@
 ---
 layout: post
 title: About the changes in administration district during the Japanese rule of Korea (in progress)
-cover-img: /assets/img/Biyangdo.jpg
-share-img: /assets/img/Biyangdo.jpg
+cover-img: /assets/img/Map-Japan-Imperialism.jpg
+share-img: /assets/img/Map-Japan-Imperialism.jpg
 tags: [history, Korea, 20th-century]
 ---
 This is the summary of the paper by Lee Myeong Hak (2020. 05), the title of which is **_<The Reorganization of Administrative Districts and Changes to Their Names during the Japanese Rule --With a focus on Myeons (面)-->_**.
@@ -69,6 +69,12 @@ To cope with these two problems, the authority had to again come up with the mer
 
 The further increase in financial pressure in the late 1930s stimulated the third revision. The two backgrounds that induced the increase are as follows.
 
+![](/assets/img/Affairs_late_1930s.jpg)
+
+Thus, as presented in the first table, the number of Myeons decreased through out the Japanese rule over Joseon. In the perspective of Do (province), the decrease was severe in the northern 'Do's than in the southern. This was because of the relative speed of industrialization. 'Bu's in the north developed quickly, since more factories and plants were established due to the plentiful resources in the north. Moreover, due to the geographical feature that mountains are distributed mostly in the north, Myeons in the north were naturally weaker than those in the south.
+
 ### 2) Enhancement of relevance of social reality and administrative efficiency
+
+
 
 ## 4. Conclusion
