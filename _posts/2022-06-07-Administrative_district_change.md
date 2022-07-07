@@ -75,6 +75,14 @@ Thus, as presented in the first table, the number of Myeons decreased through ou
 
 ### 2) Enhancement of relevance of social reality and administrative efficiency
 
+During the merge of Myeons, the problem of the selection of names made an issue. For those who reside in the weak Myeons, the weakness in financial power did not meant the weakness in their local identity. In order to avoid conflicts that may break out, the Government-General came up with the three criteria.
 
+1. Priority to the better (stronger in political power or wealthier) Myeons
+1. Mechanical eclecticism (such as pulling one term from each Myeon)
+1. The use of endemic features (using a name of landscape that is familiar for both Myeons)
+
+For further study, the investigation of social movement that pertains to the naming of merged Myeons may become a good paragon for colonial administrative process.
 
 ## 4. Conclusion
+
+Summary of 1.~3.
