@@ -57,7 +57,17 @@ We can see the consequences of the policy choice in the first table. From the ta
 
 ### 1) Clearance of weak Myeons and enlargement of cities
 
-Myeons had their original services and had services that were received by the upper class administrations, such as social id, taxing, and election service.
+Myeons had their original services and had services that were received by the upper class administrations, such as social id, taxing, and election service. Thus, the administrative power of Myeons critically affected the Government-General's colonial rule of Joseon. The authority increased the number of local officials per Myeon (who were called 'Myeon Seo-ki') from 3.62 to 5.19 in average. The increase in the number leads to the increase in levy of the members of a Myeon.
+
+However, the villagers in Myeon were already bearing cumbersome burden because of the soar in levy that stemmed from the construction of elementary schools for Joseon people. The situation led the Government-General to determine the revision policy that includes the merge of Myeons.
+
+As the merge of Myeons become visible, the people of Myeons started social movements to avoid possible burden they may carry. Especially, in the 1930s, two affairs spark up such acts.
+
+![](/assets/img/Affairs_1930s.jpg)
+
+To cope with these two problems, the authority had to again come up with the merge of Myeons. By merging weak Myeons, the Government-General could met the end of constructing elementary school per Myeon faster. Moreover, by the merge with the richer Myeons, the poorer Myeons could disperse their levy since some of the taxes were imposed with respect to assets. As a result, in the perspective of the authority, merge of Myeons became the most favorable selection and led them to the second revision of local districts.
+
+The further increase in financial pressure in the late 1930s stimulated the third revision. The two backgrounds that induced the increase are as follows.
 
 ### 2) Enhancement of relevance of social reality and administrative efficiency
 
