@@ -11,14 +11,14 @@ Here, I will list up important definitions and theorems that must be remembered,
 
 - Even subsets are defined in elements.
 
-$$Definition\: (subset) \: A: \textnormal{subset of }X \textnormal{ if } ∀x∈A,\:x∈X.$$
+$$Definition\: (subset) \: A: \text{subset of }X \text{ if } ∀x∈A,\:x∈X.$$
 
 - Thus we can say that two sets are equal if all the elements of the two coincides.
 
 $$Definition\: A=B⇔A⊆B\&B⊆A\text{, i.e., }\forall x\in A, \:x\in B\: \& \:\forall y\in B,\: y\in A.$$
 
 
-$$Definition\: (power set)\:P\left(X\right) \textnormal{(the power set of }X):=\{A_{i}:A_{i}\subseteq X\}$$
+$$Definition\: (power set)\:P\left(X\right) \text{(the power set of }X):=\{A_{i}:A_{i}\subseteq X\}$$
 
 - Then, the number of elements--the power set has sets as elements--in the power set of $$X$$: $$n\left(P\left(X\right)\right)=2^{n\left(X\right)}$$, since it is the same as the number of cases of checking whether each element in $$X$$ is present or not.
 - Also, from the reasoning above, we can see that empty set is also an element of the power set, as no elements being present is contained in the cases.
