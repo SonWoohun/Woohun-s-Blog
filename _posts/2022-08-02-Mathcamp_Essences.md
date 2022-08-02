@@ -9,3 +9,17 @@ Here, I will list up important definitions and theorems that must be remembered,
 
 ## Set and Logic
 
+
+
+## Relation and Function
+
+
+## Vector Space, Metric Space, Limit, and Continuity
+
+
+## Vector Subspace and Affine Subspace
+
+
+## Convexity and Seperating Hyperplane
+
+
