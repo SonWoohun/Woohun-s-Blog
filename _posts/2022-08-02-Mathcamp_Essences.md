@@ -52,6 +52,9 @@ $$Definition\: (pairwise\: disjoint)\: \text{A family of sets}, \:\{A_{i},\:i=1,
 $$Definition\: (partition)\:\text{A family of sets },\{A_{i}\subseteq X,\:i\in I\},\text{ is a partition of }A\text{ if }\forall i\neq j\in I,\:A_{i}\cap A_{j}=\phi\:\&\:\cup_{i\in I}A_{i}=X.$$
 
 - So, a partition of a set is a class of sets that constitute the set but does not overlap each other.
+
+
+
 # Relation and Function
 
 
