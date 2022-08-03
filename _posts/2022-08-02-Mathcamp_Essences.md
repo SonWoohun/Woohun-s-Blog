@@ -44,12 +44,14 @@ $$(A\cap B)\cup C=(A\cup C)\cap(B\cup C)$$
 
 $$Definition\: (disjoint)\: A\text{ and }B\text{ are disjoint if }A\cap B=\phi.$$
 
-$$Definition\: (pairwise\: disjoint)\: \text{A family of sets}, \:\{A_{i},\:i=1,\dots,n\},\text{ is pairwise disjoint if }\forall i\neq j, \:i,j=1,\dots,n,\: A_{i}\cap A_{j}=\phi.$$
+$$Definition\: (pairwise\: disjoint)$$
+A family of sets, $$\{A_{i},\:i=1,\dots,n\}$$, is pairwise disjoint if $$\forall i\neq j, \:i,j=1,\dots,n,\: A_{i}\cap A_{j}=\phi.$$
 
 - Pairwise disjoint means a class of sets does not overlap each other.
 - From now on, I will use $$i\in I$$, instead of using $$i=1,\dots,n$$.
 
-$$Definition\: (partition)\:\text{A family of sets },\{A_{i}\subseteq X,\:i\in I\},\text{ is a partition of }A\text{ if }\forall i\neq j\in I,\:A_{i}\cap A_{j}=\phi\:\&\:\cup_{i\in I}A_{i}=X.$$
+$$Definition\: (partition)$$
+A family of sets $$\{A_{i}\subseteq X,\:i\in I\}$$, is a partition of $$A$$ if $$\forall i\neq j\in I,\:A_{i}\cap A_{j}=\phi\:\&\:\cup_{i\in I}A_{i}=X.$$
 
 - So, a partition of a set is a class of sets that constitute the set but does not overlap each other.
 
@@ -60,11 +62,12 @@ $$Definition\: (partition)\:\text{A family of sets },\{A_{i}\subseteq X,\:i\in I
 
 # Vector Space, Metric Space, Limit, and Continuity
 
-$$Definition\: (Vector Space)\:\text{A vector space defined over a field }F\text{ is a set }V\text{ of elements called vectors, with (1) a binary operation }V\times V→V\text{ called \textbf{vector addition}, and (2) an operator }F\times V→V\text{ called a **scalar multiplication**.}$$
+$$Definition\: (Vector Space)$$ 
+A vector space defined over a field $$F$$ is a set $$V$$ of elements called vectors, with (1) a binary operation $$V\times V→V$$ called **vector addition**, and (2) an operator $$F\times V→V$$ called a **scalar multiplication**.
 
 - The two operations of vector space have the following properties.
 
-    (1) $$V\text{: closed under vector addition, and for all }x,y,z\in V$$, we have to following:
+    (1) $$V$$: closed under vector addition, and $$∀x,y,z\in V$$, we have to following:
 
  
 
