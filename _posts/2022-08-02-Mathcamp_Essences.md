@@ -23,11 +23,12 @@ $$Definition\: (power set)\:P\left(X\right) \text{(the power set of }X):=\{A_{i}
 - Then, the number of elements--the power set has sets as elements--in the power set of $$X$$: $$n\left(P\left(X\right)\right)=2^{n\left(X\right)}$$, since it is the same as the number of cases of checking whether each element in $$X$$ is present or not.
 - Also, from the reasoning above, we can see that empty set is also an element of the power set, as no elements being present is contained in the cases.
 
-$$Definition\: (union)\: A\cup B:=\{x\in A\:\text{ or }x\in B\}$$
+$$Definition1\: (union)\: A\cup B:=\{x\in A\:\text{ or }x\in B\}$$
 
-$$Definition\: (intersection)\: A\cap B:=\{x\in A\:\text{ and }x\in B\}$$
+$$Definition2\: (intersection)\: A\cap B:=\{x\in A\:\text{ and }x\in B\}$$
 
-$$Theorem\: (Commutative,\: Associative,\: Distributive\:Law)\:$$
+$$Theorem1\: (Commutative,\: Associative,\: Distributive\:Law)\:$$
+
 (1) Commutative Law: $$A\cup B=B\cup A$$ and $$A\cap B=B\cap A$$
 
 (2) Associative Law: 
@@ -42,15 +43,15 @@ $$(A\cup B)\cap C=(A\cap C)\cup(B\cap C)$$
 
 $$(A\cap B)\cup C=(A\cup C)\cap(B\cup C)$$
 
-$$Definition\: (disjoint)\: A\text{ and }B\text{ are disjoint if }A\cap B=\phi.$$
+$$Definition3\: (disjoint)\: A\text{ and }B\text{ are disjoint if }A\cap B=\phi.$$
 
-$$Definition\: (pairwise\: disjoint)$$
+$$Definition4\: (pairwise\: disjoint)$$
 A family of sets, $$\{A_{i},\:i=1,\dots,n\}$$, is pairwise disjoint if $$\forall i\neq j, \:i,j=1,\dots,n,\: A_{i}\cap A_{j}=\phi.$$
 
 - Pairwise disjoint means a class of sets does not overlap each other.
 - From now on, I will use $$i\in I$$, instead of using $$i=1,\dots,n$$.
 
-$$Definition\: (partition)$$
+$$Definition5\: (partition)$$
 A family of sets $$\{A_{i}\subseteq X,\:i\in I\}$$, is a partition of $$A$$ if $$\forall i\neq j\in I,\:A_{i}\cap A_{j}=\phi\:\&\:\cup_{i\in I}A_{i}=X.$$
 
 - So, a partition of a set is a class of sets that constitute the set but does not overlap each other.
@@ -62,7 +63,7 @@ A family of sets $$\{A_{i}\subseteq X,\:i\in I\}$$, is a partition of $$A$$ if $
 
 # Vector Space, Metric Space, Limit, and Continuity
 
-$$Definition\: (Vector Space)$$ 
+$$Definition1\: (Vector Space)$$ 
 A vector space defined over a field $$F$$ is a set $$V$$ of elements called vectors, with (1) a binary operation $$V\times V→V$$ called **vector addition**, and (2) an operator $$F\times V→V$$ called a **scalar multiplication**.
 
 - The two operations of vector space have the following properties.
@@ -75,5 +76,8 @@ A vector space defined over a field $$F$$ is a set $$V$$ of elements called vect
 
 
 # Convexity and Seperating Hyperplane
+
+
+# Differential Calculus
 
 
