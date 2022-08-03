@@ -60,7 +60,7 @@ $$Definition\: (partition)\:\text{A family of sets },\{A_{i}\subseteq X,\:i\in I
 
 # Vector Space, Metric Space, Limit, and Continuity
 
-$$Definition\: (Vector Space)\:\text{A vector space defined over a field }F\text{ is a set }V\text{ of elements called vectors, with (1) a binary operation }V\times V→V\text{ called \textbf{vector addition}, and (2) an operator }F\times V→V\text{ called a \textbf{scalar multiplication.}}$$
+$$Definition\: (Vector Space)\:\text{A vector space defined over a field }F\text{ is a set }V\text{ of elements called vectors, with (1) a binary operation }V\times V→V\text{ called \textbf{vector addition}, and (2) an operator }F\times V→V\text{ called a **scalar multiplication**.}$$
 
 - The two operations of vector space have the following properties.
 
