@@ -90,14 +90,39 @@ A vector space defined over a field $$F$$ is a set $$V$$ of elements called vect
 $$Definition2\: (Metric \:or\: distance\: function)$$
 $$d:\:X×X→\mathbb{R}_{+}\:s.t.\:∀x,y,z∈X,$$
 
-(i) $$d(x,y)≥0$$(nonnegativity) and $$d\left(x,y\right)=0⇔x=y$$(asymmetry)
+(i) $$d(x,y)≥0$$ (nonnegativity) and $$d\left(x,y\right)=0⇔x=y$$ (asymmetry)
 
-(ii) $$d(x,y)=d(y,x)$$(commutativity)
+(ii) $$d(x,y)=d(y,x)$$ (commutativity)
 
 (iii) $$d(x,z)≤d(x,y)+d(y,z)$$ (triangular inequality)
 
+$$Definition3\: (Metric Space)$$
+A metric space is a pair $$(X,d)$$ where $$X$$: a set, $$d$$: a metric defined on $$X$$.
 
+$$Definition4\: (Norm)$$
+Let $$V$$: a vector space, $$X$$: the underlying set of points. Then $$\|⋅\|:\:X→\mathbb{R}$$ is called a **norm** if it satisfies the following properties $$∀x,y∈X $$,$$∀α∈\mathbb{R}$$:
+
+(i) non-negativity: $$\|x\|≥0$$
+
+(ii) only the zero vector has zero norm: $$\|x\|=0⇔x=0$$
+
+(iii) triangular inequality: $$\|x+y\|≤\|x\|+\|y\|$$
+
+(iv) scalar multiplication rule: $$\|αx\|=|α|\|x\|$$.
  
+$$Definition5\:(Normed\: vector\: space)$$
+
+A normed vector space is a vector space $$V$$ equipped with norm.
+
+$$Theorem 1$$
+Norm is a metric.
+
+$$proof$$
+(i) (non-negativity&asymmetry) $$\|x\|≥0$$ and $$\|x\|=0⇔x=0$$ by the (i) and (ii) of $$Def4$$.
+
+(ii) (commutativity) $$\|x-y\|=\|y-x\|$$
+
+(iii) (triangular inequality)
 
 # Vector Subspace and Affine Subspace
 
