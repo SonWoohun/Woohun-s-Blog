@@ -71,21 +71,29 @@ A vector space defined over a field $$F$$ is a set $$V$$ of elements called vect
     (1) $$V$$: closed under vector addition, and $$∀x,y,z\in V$$, we have the following:
 
     (i) Associative : $$x+(y+z)=(x+y)+z=x+y+z$$
+    
     (ii) Commutative : $$x+y=y+x$$
-    (iii) Existence of the additive identity : $$\exist! \underbar{0} ∈V:\:x+\underbar{0}=\underbar{0}+x=x$$
-    (iv) Existence of inverse elements: $$∀x\in V,\:\exists!(-x)\in V\: : \: x+(-x)=(-x)+x=\underbar{0}.$$
+    
+    (iii) Existence of the additive identity : $$∃! \underline{0} ∈V:\:x+\underline{0}=\underline{0}+x=x$$
+
+    (iv) Existence of inverse elements: $$∀x\in V,\:\exists!(-x)\in V\: : \: x+(-x)=(-x)+x=\underline{0}.$$
 
     (2) $$V$$ : closed under scalar multiplication, and $$∀x,y∈V$$ and $$∀α,β∈F$$, we have the following:
 
     (i) Double distributive property: $$α(x+y)=αx+αy$$ and $$(α+β)x=αx+βy$$
+    
     (ii) Associative law for scalars: $$α(βx)=(αβ)x$$
+    
     (iii) Existence of a multiplicative identity: $$\exists!1∈F:\:1x=x$$
 
 
 $$Definition2\: (Metric \:or\: distance\: function)$$
 $$d:\:X×X→\mathbb{R}_{+}\:s.t.\:∀x,y,z∈X,$$
+
 (i) $$d(x,y)≥0$$(nonnegativity) and $$d\left(x,y\right)=0⇔x=y$$(asymmetry)
+
 (ii) $$d(x,y)=d(y,x)$$(commutativity)
+
 (iii) $$d(x,z)≤d(x,y)+d(y,z)$$ (triangular inequality)
 
 
