@@ -125,7 +125,9 @@ $$proof$$
 
 (iii) (triangular inequality) $$∀x,y,z∈V,\|x-z\|+\|z-y\|≥\|x-y\|$$ by (iii) in $$Def4$$.
 
-$$Definition5\:(Euclidean \:norm)$$ $$∀x,y∈V$$
+$$Definition5\:(Euclidean \:space)$$ 
+
+The $$n$$-dimensional **Euclidean space** is a normed vector space, $$E^{n}\left(\mathbb{R}^{n},d_{E}\right)$$, where $$d_{E}(x,y)=\|x-y\|_{E}=\sqrt{∑_{i=1}^{n}(x_{i}-y_{i})^{2}}$$
 
 # Vector Subspace and Affine Subspace
 
