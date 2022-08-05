@@ -78,7 +78,7 @@ A vector space defined over a field $$F$$ is a set $$V$$ of elements called vect
 
     (iv) Existence of inverse elements: $$∀x\in V,\:\exists!(-x)\in V\: : \: x+(-x)=(-x)+x=\underline{0}.$$
 
-    (2) $$V$$ : closed under scalar multiplication, and $$∀x,y∈V$$ and $$∀α,β∈F$$, we have the following:
+(2) $$V$$ : closed under scalar multiplication, and $$∀x,y∈V$$ and $$∀α,β∈F$$, we have the following:
 
     (i) Double distributive property: $$α(x+y)=αx+αy$$ and $$(α+β)x=αx+βy$$
     
@@ -109,7 +109,7 @@ Let $$V$$: a vector space, $$X$$: the underlying set of points. Then $$\|⋅\|:\
 (iii) triangular inequality: $$\|x+y\|≤\|x\|+\|y\|$$
 
 (iv) scalar multiplication rule: $$\|αx\|=|α|\|x\|$$.
- 
+
 $$Definition5\:(Normed\: vector\: space)$$
 
 A normed vector space is a vector space $$V$$ equipped with norm.
@@ -124,7 +124,7 @@ $$proof$$
 
 (iii) (triangular inequality) $$∀x,y,z∈V,\|x-z\|+\|z-y\|≥\|x-y\|$$ by (iii) in $$Def4$$.
 
-$$Definition5\:(Euclidean norm)$$ $$∀x,y∈V$$
+$$Definition5\:(Euclidean \:norm)$$ $$∀x,y∈V$$
 
 # Vector Subspace and Affine Subspace
 
