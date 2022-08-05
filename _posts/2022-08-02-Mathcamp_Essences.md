@@ -115,14 +115,16 @@ $$Definition5\:(Normed\: vector\: space)$$
 A normed vector space is a vector space $$V$$ equipped with norm.
 
 $$Theorem 1$$
-Norm is a metric.
+For $$∀x,y∈V,\: d(x,y)=\|x-y\|$$ is a metric.
 
 $$proof$$
-(i) (non-negativity&asymmetry) $$\|x\|≥0$$ and $$\|x\|=0⇔x=0$$ by the (i) and (ii) of $$Def4$$.
+(i) (non-negativity&asymmetry) $$\|x-y\|≥0$$ and $$\|x-y\|=0⇔x=y$$ by the (i) and (ii) of $$Def4$$.
 
-(ii) (commutativity) $$\|x-y\|=\|y-x\|$$
+(ii) (commutativity) $$\|x-y\|=|-1|\|y-x\|=\|y-x\|$$ by (iv) in $$Def4$$.
 
-(iii) (triangular inequality)
+(iii) (triangular inequality) $$∀x,y,z∈V,\|x-z\|+\|z-y\|≥\|x-y\|$$ by (iii) in $$Def4$$.
+
+$$Definition5\:(Euclidean norm)$$ $$∀x,y∈V$$
 
 # Vector Subspace and Affine Subspace
 
