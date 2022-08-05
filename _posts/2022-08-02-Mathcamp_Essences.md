@@ -68,23 +68,23 @@ A vector space defined over a field $$F$$ is a set $$V$$ of elements called vect
 
 - The two operations of vector space have the following properties.
 
-    (1) $$V$$: closed under vector addition, and $$∀x,y,z\in V$$, we have the following:
+(1) $$V$$: closed under vector addition, and $$∀x,y,z\in V$$, we have the following:
 
-    (i) Associative : $$x+(y+z)=(x+y)+z=x+y+z$$
+(i) Associative : $$x+(y+z)=(x+y)+z=x+y+z$$
     
-    (ii) Commutative : $$x+y=y+x$$
+(ii) Commutative : $$x+y=y+x$$
     
-    (iii) Existence of the additive identity : $$∃! \underline{0} ∈V:\:x+\underline{0}=\underline{0}+x=x$$
+(iii) Existence of the additive identity : $$∃! \underline{0} ∈V:\:x+\underline{0}=\underline{0}+x=x$$
 
-    (iv) Existence of inverse elements: $$∀x\in V,\:\exists!(-x)\in V\: : \: x+(-x)=(-x)+x=\underline{0}.$$
+(iv) Existence of inverse elements: $$∀x\in V,\:\exists!(-x)\in V\: : \: x+(-x)=(-x)+x=\underline{0}.$$
 
 (2) $$V$$ : closed under scalar multiplication, and $$∀x,y∈V$$ and $$∀α,β∈F$$, we have the following:
 
-    (i) Double distributive property: $$α(x+y)=αx+αy$$ and $$(α+β)x=αx+βy$$
+(i) Double distributive property: $$α(x+y)=αx+αy$$ and $$(α+β)x=αx+βy$$
     
-    (ii) Associative law for scalars: $$α(βx)=(αβ)x$$
+(ii) Associative law for scalars: $$α(βx)=(αβ)x$$
     
-    (iii) Existence of a multiplicative identity: $$\exists!1∈F:\:1x=x$$
+(iii) Existence of a multiplicative identity: $$\exists!1∈F:\:1x=x$$
 
 
 $$Definition2\: (Metric \:or\: distance\: function)$$
@@ -108,7 +108,7 @@ Let $$V$$: a vector space, $$X$$: the underlying set of points. Then $$\|⋅\|:\
 
 (iii) triangular inequality: $$\|x+y\|≤\|x\|+\|y\|$$
 
-(iv) scalar multiplication rule: $$\|αx\|=|α|\|x\|$$.
+(iv) scalar multiplication rule: $$ \| αx \| = | α | \| x \| $$.
 
 $$Definition5\:(Normed\: vector\: space)$$
 
@@ -118,6 +118,7 @@ $$Theorem 1$$
 For $$∀x,y∈V,\: d(x,y)=\|x-y\|$$ is a metric.
 
 $$proof$$
+
 (i) (non-negativity&asymmetry) $$\|x-y\|≥0$$ and $$\|x-y\|=0⇔x=y$$ by the (i) and (ii) of $$Def4$$.
 
 (ii) (commutativity) $$\|x-y\|=|-1|\|y-x\|=\|y-x\|$$ by (iv) in $$Def4$$.
