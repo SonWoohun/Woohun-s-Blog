@@ -116,11 +116,9 @@ A vector space defined over a field $$F$$ is a set $$V$$ of elements called vect
 $$Definition3\: (Metric \:or\: distance\: function)$$
 $$d:\:X×X→\mathbb{R}_{+}\:s.t.\:∀x,y,z∈X,$$
 
-(i) $$d(x,y)≥0$$ (nonnegativity) and $$d\left(x,y\right)=0⇔x=y$$ (asymmetry)
-
-(ii) $$d(x,y)=d(y,x)$$ (commutativity)
-
-(iii) $$d(x,z)≤d(x,y)+d(y,z)$$ (triangular inequality)
+1. $$d(x,y)≥0$$ (nonnegativity) and $$d\left(x,y\right)=0⇔x=y$$ (asymmetry)
+2. $$d(x,y)=d(y,x)$$ (commutativity)
+3. $$d(x,z)≤d(x,y)+d(y,z)$$ (triangular inequality)
 
 $$Definition4\: (Metric Space)$$
 A metric space is a pair $$(X,d)$$ where $$X$$: a set, $$d$$: a metric defined on $$X$$.
@@ -128,13 +126,10 @@ A metric space is a pair $$(X,d)$$ where $$X$$: a set, $$d$$: a metric defined o
 $$Definition5\: (Norm)$$
 Let $$V$$: a vector space, $$X$$: the underlying set of points. Then $$\|⋅\|:\:X→\mathbb{R}$$ is called a **norm** if it satisfies the following properties $$∀x,y∈X $$,$$∀α∈\mathbb{R}$$:
 
-(i) non-negativity: $$\|x\|≥0$$
-
-(ii) only the zero vector has zero norm: $$\|x\|=0⇔x=0$$
-
-(iii) triangular inequality: $$\|x+y\|≤\|x\|+\|y\|$$
-
-(iv) scalar multiplication rule: $$\|αx\|=|α|\| x \|$$.
+1. non-negativity: $$\|x\|≥0$$
+2. only the zero vector has zero norm: $$\|x\|=0⇔x=0$$
+3. triangular inequality: $$\|x+y\|≤\|x\|+\|y\|$$
+4. scalar multiplication rule: $$\|αx\|=|α|\| x \|$$.
 
 $$Definition6\:(Normed\: vector\: space)$$
 
@@ -145,11 +140,9 @@ For $$∀x,y∈V,\: d(x,y)=\|x-y\|$$ is a metric.
 
 $$proof$$
 
-(i) (non-negativity&asymmetry) $$\|x-y\|≥0$$ and $$\|x-y\|=0⇔x=y$$ by the (i) and (ii) of $$Def5$$.
-
-(ii) (commutativity) $$\|x-y\|=|-1|\|y-x\|=\|y-x\|$$ by the (iv) in $$Def5$$.
-
-(iii) (triangular inequality) $$∀x,y,z∈V,\|x-z\|+\|z-y\|≥\|x-y\|$$ by (iii) in $$Def5$$.
+1. (non-negativity&asymmetry) $$\|x-y\|≥0$$ and $$\|x-y\|=0⇔x=y$$ by the (i) and (ii) of $$Def5$$.
+2. (commutativity) $$\|x-y\|=|-1|\|y-x\|=\|y-x\|$$ by the (iv) in $$Def5$$.
+3. (triangular inequality) $$∀x,y,z∈V,\|x-z\|+\|z-y\|≥\|x-y\|$$ by (iii) in $$Def5$$.
 
 $$Definition7\:(Euclidean \:space)$$ 
 
