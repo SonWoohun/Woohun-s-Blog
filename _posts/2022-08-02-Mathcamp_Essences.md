@@ -63,7 +63,33 @@ A family of sets $$\{A_{i}\subseteq X,\:i\in I\}$$, is a partition of $$A$$ if $
 
 # Vector Space, Metric Space, Limit, and Continuity
 
-$$Definition1\: (Vector Space)$$ 
+$$Definition1\: (Field)$$
+
+A $$field$$ is a set $$F$$ with two operations : $$addition$$ and $$multiplication$$ $$s.t.$$ satisfies the following axioms.
+
+(A : Addition) $$∀x,y,z∈F$$
+
+1. $$x+y∈F$$ (Closed)
+2. $$x+y=y+x$$ (Commutativity)
+3. $$(x+y)+z=x+(y+z)$$ (Associativity)
+4. $$∃0∈F\:s.t.\:0+x=x$$ (Existence of additive identity)
+5. $$∃(-x)∈F\:s.t.\:x+(-x)=0$$ (Existence of inverse element)
+
+(M: Multiplication) $$∀x,y,z∈F$$
+
+1. $$xy∈F$$ (Closed)
+2. $$xy=yx$$ (Commutativity)
+3. $$x(yz)=(xy)z$$ (Associativity)
+4. $$∃1∈F\:s.t.\:1≠0,\:and\:1×x=x$$ (Existence of multiplicative identity)
+5. $$∀x∈F\:s.t.\:x≠0,\:∃\frac{1}{x}∈F\:s.t.\:x×\frac{1}{x}=1$$ (Existence of inverse element)
+
+(D : The distributive law) $$∀x,y,z∈F$$
+
+$$(x+y)×z=x×z+y×z$$
+
+
+$$Definition2\: (Vector Space)$$ 
+
 A vector space defined over a field $$F$$ is a set $$V$$ of elements called vectors, with (1) a binary operation $$V\times V→V$$ called **vector addition**, and (2) an operator $$F\times V→V$$ called a **scalar multiplication**.
 
 - The two operations of vector space have the following properties.
@@ -87,7 +113,7 @@ A vector space defined over a field $$F$$ is a set $$V$$ of elements called vect
 (iii) Existence of a multiplicative identity: $$\exists!1∈F:\:1x=x$$
 
 
-$$Definition2\: (Metric \:or\: distance\: function)$$
+$$Definition3\: (Metric \:or\: distance\: function)$$
 $$d:\:X×X→\mathbb{R}_{+}\:s.t.\:∀x,y,z∈X,$$
 
 (i) $$d(x,y)≥0$$ (nonnegativity) and $$d\left(x,y\right)=0⇔x=y$$ (asymmetry)
@@ -96,10 +122,10 @@ $$d:\:X×X→\mathbb{R}_{+}\:s.t.\:∀x,y,z∈X,$$
 
 (iii) $$d(x,z)≤d(x,y)+d(y,z)$$ (triangular inequality)
 
-$$Definition3\: (Metric Space)$$
+$$Definition4\: (Metric Space)$$
 A metric space is a pair $$(X,d)$$ where $$X$$: a set, $$d$$: a metric defined on $$X$$.
 
-$$Definition4\: (Norm)$$
+$$Definition5\: (Norm)$$
 Let $$V$$: a vector space, $$X$$: the underlying set of points. Then $$\|⋅\|:\:X→\mathbb{R}$$ is called a **norm** if it satisfies the following properties $$∀x,y∈X $$,$$∀α∈\mathbb{R}$$:
 
 (i) non-negativity: $$\|x\|≥0$$
@@ -108,9 +134,9 @@ Let $$V$$: a vector space, $$X$$: the underlying set of points. Then $$\|⋅\|:\
 
 (iii) triangular inequality: $$\|x+y\|≤\|x\|+\|y\|$$
 
-(iv) scalar multiplication rule: $$ \| αx \| = | α | \| x \| $$.
+(iv) scalar multiplication rule: $$\|αx\|=|α|\| x \|$$.
 
-$$Definition5\:(Normed\: vector\: space)$$
+$$Definition6\:(Normed\: vector\: space)$$
 
 A normed vector space is a vector space $$V$$ equipped with norm.
 
@@ -119,13 +145,13 @@ For $$∀x,y∈V,\: d(x,y)=\|x-y\|$$ is a metric.
 
 $$proof$$
 
-(i) (non-negativity&asymmetry) $$\|x-y\|≥0$$ and $$\|x-y\|=0⇔x=y$$ by the (i) and (ii) of $$Def4$$.
+(i) (non-negativity&asymmetry) $$\|x-y\|≥0$$ and $$\|x-y\|=0⇔x=y$$ by the (i) and (ii) of $$Def5$$.
 
-(ii) (commutativity) $$\|x-y\|=|-1|\|y-x\|=\|y-x\|$$ by (iv) in $$Def4$$.
+(ii) (commutativity) $$\|x-y\|=|-1|\|y-x\|=\|y-x\|$$ by the (iv) in $$Def5$$.
 
-(iii) (triangular inequality) $$∀x,y,z∈V,\|x-z\|+\|z-y\|≥\|x-y\|$$ by (iii) in $$Def4$$.
+(iii) (triangular inequality) $$∀x,y,z∈V,\|x-z\|+\|z-y\|≥\|x-y\|$$ by (iii) in $$Def5$$.
 
-$$Definition5\:(Euclidean \:space)$$ 
+$$Definition7\:(Euclidean \:space)$$ 
 
 The $$n$$-dimensional **Euclidean space** is a normed vector space, $$E^{n}\left(\mathbb{R}^{n},d_{E}\right)$$, where $$d_{E}(x,y)=\|x-y\|_{E}=\sqrt{∑_{i=1}^{n}(x_{i}-y_{i})^{2}}$$
 
