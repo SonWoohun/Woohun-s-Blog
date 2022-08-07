@@ -96,22 +96,16 @@ A vector space defined over a field $$F$$ is a set $$V$$ of elements called vect
 
 (1) $$V$$: closed under vector addition, and $$∀x,y,z\in V$$, we have the following:
 
-(i) Associative : $$x+(y+z)=(x+y)+z=x+y+z$$
-    
-(ii) Commutative : $$x+y=y+x$$
-    
-(iii) Existence of the additive identity : $$∃! \underline{0} ∈V:\:x+\underline{0}=\underline{0}+x=x$$
-
-(iv) Existence of inverse elements: $$∀x\in V,\:\exists!(-x)\in V\: : \: x+(-x)=(-x)+x=\underline{0}.$$
+1. Associative : $$x+(y+z)=(x+y)+z=x+y+z$$
+2. Commutative : $$x+y=y+x$$
+3. Existence of the additive identity : $$∃! \underline{0} ∈V:\:x+\underline{0}=\underline{0}+x=x$$
+4. Existence of inverse elements: $$∀x\in V,\:\exists!(-x)\in V\: : \: x+(-x)=(-x)+x=\underline{0}.$$
 
 (2) $$V$$ : closed under scalar multiplication, and $$∀x,y∈V$$ and $$∀α,β∈F$$, we have the following:
 
-(i) Double distributive property: $$α(x+y)=αx+αy$$ and $$(α+β)x=αx+βy$$
-    
-(ii) Associative law for scalars: $$α(βx)=(αβ)x$$
-    
-(iii) Existence of a multiplicative identity: $$\exists!1∈F:\:1x=x$$
-
+1. Double distributive property: $$α(x+y)=αx+αy$$ and $$(α+β)x=αx+βy$$
+2. Associative law for scalars: $$α(βx)=(αβ)x$$
+3. Existence of a multiplicative identity: $$\exists!1∈F:\:1x=x$$
 
 $$Definition3\: (Metric \:or\: distance\: function)$$
 $$d:\:X×X→\mathbb{R}_{+}\:s.t.\:∀x,y,z∈X,$$
@@ -129,7 +123,7 @@ Let $$V$$: a vector space, $$X$$: the underlying set of points. Then $$\|⋅\|:\
 1. non-negativity: $$\|x\|≥0$$
 2. only the zero vector has zero norm: $$\|x\|=0⇔x=0$$
 3. triangular inequality: $$\|x+y\|≤\|x\|+\|y\|$$
-4. scalar multiplication rule: $$\|αx\|=|α|\| x \|$$.
+4. scalar multiplication: $$\|αx\|=|α|\|x\|$$
 
 $$Definition6\:(Normed\: vector\: space)$$
 
@@ -140,9 +134,9 @@ For $$∀x,y∈V,\: d(x,y)=\|x-y\|$$ is a metric.
 
 $$proof$$
 
-1. (non-negativity&asymmetry) $$\|x-y\|≥0$$ and $$\|x-y\|=0⇔x=y$$ by the (i) and (ii) of $$Def5$$.
-2. (commutativity) $$\|x-y\|=|-1|\|y-x\|=\|y-x\|$$ by the (iv) in $$Def5$$.
-3. (triangular inequality) $$∀x,y,z∈V,\|x-z\|+\|z-y\|≥\|x-y\|$$ by (iii) in $$Def5$$.
+1. (non-negativity&asymmetry) $$\|x-y\|≥0$$ and $$\|x-y\|=0⇔x=y$$ by the 1. and 2. of $$Def5$$.
+2. (commutativity) $$\|x-y\|=|-1|\|y-x\|=\|y-x\|$$ by the 4. in $$Def5$$.
+3. (triangular inequality) $$∀x,y,z∈V,\|x-z\|+\|z-y\|≥\|x-y\|$$ by 3. in $$Def5$$.
 
 $$Definition7\:(Euclidean \:space)$$ 
 
