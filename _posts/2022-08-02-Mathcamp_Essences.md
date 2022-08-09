@@ -56,7 +56,27 @@ A family of sets $$\{A_{i}\subseteq X,\:i\in I\}$$, is a partition of $$A$$ if $
 
 - So, a partition of a set is a class of sets that constitute the set but does not overlap each other.
 
+$$Definition9\:(Complement\:of\:A\:relative\:to\:X)$$
+$$A^{c}:=\{x∈X:x∉A\}$$
 
+$$Theorem2\:(De \:Morgan's\:Laws)$$
+
+1. $$(∪_{i∈I}A_{i})^{c}=∩_{i∈I}A_{i}^{c}$$
+
+2. $$(∩_{i∈I}A_{i})^{c}=∪_{i∈I}A_{i}^{c}$$
+
+$$proof$$
+1. $$x∈(∪_{i∈I}A_{i})^{c}⇔x∉∪_{i∈I}A_{i}⇔∄i∈I\:s.t.\:x∈A_{i}$$
+$$⇔∀i∈I,\:x∉A_{i}⇔∀i∈I,\:x∈A_{i}^{c}⇔x∈∩_{i∈I}A_{i}^{c}.∎$$
+
+2. $$x∈(∩_{i∈I}A_{i})^{c}⇔x∉∩_{i∈I}A_{i}⇔∃i∈I\:s.t.\:x∉A_{i}$$
+$$⇔∃i∈I\:s.t.\:x∈A_{i}^{c}⇔x∈∪_{i∈I}A_{i}^{c}.∎$$
+
+$$Theorem3\:∀A,B⊂X,\:A⊂B⇔A^{c}∪B=X$$
+
+$$proof$$
+$$(\lvert⇒)\:A⊂B⇒A∩B=B⇒A^{c}∪B^{c}=A^{c}\:(∵ De\:Morgan's\:Laws)$$
+then $$A^{c}∪B=(A^{c}∪B^{c})∪B=A^{c}∪(B^{c}∪B)=A^{c}∪X$$
 
 # Relation and Function
 
