@@ -75,11 +75,33 @@ $$⇔∃i∈I\:s.t.\:x∈A_{i}^{c}⇔x∈∪_{i∈I}A_{i}^{c}.∎$$
 $$Theorem3\:∀A,B⊂X,\:A⊂B⇔A^{c}∪B=X$$
 
 $$proof$$
-$$(\lvert⇒)\:A⊂B⇒A∩B=B⇒A^{c}∪B^{c}=A^{c}\:(∵ De\:Morgan's\:Laws)$$
-then $$A^{c}∪B=(A^{c}∪B^{c})∪B=A^{c}∪(B^{c}∪B)=A^{c}∪X$$
+$$(\lvert⇒)\:A⊂B⇒A∩B=B⇒A^{c}∪B^{c}=A^{c}\:(∵ De\:Morgan's\:Laws)$$ 
+then 
+
+$$A^{c}∪B=(A^{c}∪B^{c})∪B=A^{c}∪(B^{c}∪B)=A^{c}∪X=X\:(∵associative).∎$$
+$$(⇐\rvert)\:A^{c}∪B=X⇒(A^{c}∪B)∩B^{c}=(A^{c}∩B^{c})∪(B∩B^{c})=B^{c}$$
+$$⇒A^{c}∩B^{c}=B^{c}⇒A∪B=B\:(∵De\:Morgan's\:Laws)⇒A⊂B.∎$$
+
+### Mathematical Induction
+
+$$Theorem4$$
+$$P :$$ A property that $$\mathbb{N}$$ (or $$\mathbb{Z}_{+}$$) may or may not have.
+If (i) $$∃n_{0}∈\mathbb{N}\$$ (or $$\mathbb{Z}_{+}$$) $$s.t.\:P(n_{0})$$ holds and (ii) $$∀n∈\mathbb{N}\$$ (or $$\mathbb{Z}_{+}$$), $$P(n)⇒P(n+1)$$, then $$P$$ holds for $$∀n∈\mathbb{N}\$$ (or $$\mathbb{Z}_{+}$$) $$s.t.\:n≥n_{0}$$.
 
 # Relation and Function
 
+$$Definition1\:(Cartesian\:product)$$ $$X×Y:=\{(x,y):x∈X\:&\:y∈Y\}$$
+
+$$Definition2\:(Binary\:Relation\:from\:X\:to\:Y)$$ : $$R⊂X×Y$$
+
+- If $$R⊂X×X$$, we say $$R$$ is relation defined on $$X$$.
+- If $$(x,y)∈R⇔y∈R(x)$$, $$y$$ is the **image** of $$x$$, and $$R(x):={y∈Y:(x,y)∈R}$$ : **image set**
+
+$$Definition3\:(Inverse\:relation)$$ : $$R^{-1}:=\{(y,x)∈Y×X:(x,y)∈R\}$$
+
+-Note that inverse relation still depends on R.
+
+$$Definition4\:(Image set of a set)$$ $$R⊂X×Y,\:A⊂X$$. The $$R(A):=\{y∈Y : ∃x∈A\:s.t.\:(x,y)∈R\}
 
 # Vector Space, Metric Space, Limit, and Continuity
 
