@@ -123,7 +123,7 @@ Let $$V$$: a vector space, $$X$$: the underlying set of points. Then $$\|⋅\|:\
 1. non-negativity: $$\|x\|≥0$$
 2. only the zero vector has zero norm: $$\|x\|=0⇔x=0$$
 3. triangular inequality: $$\|x+y\|≤\|x\|+\|y\|$$
-4. scalar multiplication: $$\|αx\|= |α| \|x\|$$
+4. scalar multiplication: $$\|αx\|= \lvert α\rvert \|x\|$$
 
 $$Definition6\:(Normed\: vector\: space)$$
 
@@ -135,7 +135,7 @@ For $$∀x,y∈V,\: d(x,y)=\|x-y\|$$ is a metric.
 $$proof$$
 
 1. (non-negativity&asymmetry) $$\|x-y\|≥0$$ and $$\|x-y\|=0⇔x=y$$ by the 1. and 2. of $$Def5$$.
-2. (commutativity) $$\|x-y\|= |-1| \|y-x\|=\|y-x\|$$ by the 4. in $$Def5$$.
+2. (commutativity) $$\|x-y\|= \lvert -1\rvert \|y-x\|=\|y-x\|$$ by the 4. in $$Def5$$.
 3. (triangular inequality) $$∀x,y,z∈V,\|x-z\|+\|z-y\|≥\|x-y\|$$ by 3. in $$Def5$$.
 
 $$Definition7\:(Euclidean \:space)$$ 
