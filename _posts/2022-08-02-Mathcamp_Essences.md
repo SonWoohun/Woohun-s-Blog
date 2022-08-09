@@ -85,12 +85,12 @@ $$⇒A^{c}∩B^{c}=B^{c}⇒A∪B=B\:(∵De\:Morgan's\:Laws)⇒A⊂B.∎$$
 ### Mathematical Induction
 
 $$Theorem4$$
-$$P :$$ A property that $$\mathbb{N}$$ (or $$\mathbb{Z}_{+}$$) may or may not have.
-If (i) $$∃n_{0}∈\mathbb{N}\$$ (or $$\mathbb{Z}_{+}$$) $$s.t.\:P(n_{0})$$ holds and (ii) $$∀n∈\mathbb{N}\$$ (or $$\mathbb{Z}_{+}$$), $$P(n)⇒P(n+1)$$, then $$P$$ holds for $$∀n∈\mathbb{N}\$$ (or $$\mathbb{Z}_{+}$$) $$s.t.\:n≥n_{0}$$.
+$$P :$$ A property that $$\mathbb{N}\:(or\:\mathbb{Z}_{+})$$ may or may not have.
+If (i) $$∃n_{0}∈\mathbb{N}\:(or\:\mathbb{Z}_{+})$$ $$s.t.\:P(n_{0})$$ holds and (ii) $$∀n∈\mathbb{N}\:(or\:\mathbb{Z}_{+})$$, $$P(n)⇒P(n+1)$$, then $$P$$ holds for $$∀n∈\mathbb{N}\:(or\:\mathbb{Z}_{+})$$ $$s.t.\:n≥n_{0}$$.
 
 # Relation and Function
 
-$$Definition1\:(Cartesian\:product)$$ $$X×Y:=\{(x,y):x∈X\:&\:y∈Y\}$$
+$$Definition1\:(Cartesian\:product)$$ $$X×Y:=\{(x,y):x∈X\:\&\:y∈Y\}$$
 
 $$Definition2\:(Binary\:Relation\:from\:X\:to\:Y)$$ : $$R⊂X×Y$$
 
