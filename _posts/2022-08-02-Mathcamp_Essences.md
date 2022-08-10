@@ -130,7 +130,7 @@ A $$field$$ is a set $$F$$ with two operations : $$addition$$ and $$multiplicati
 $$(x+y)×z=x×z+y×z$$
 
 
-$$Definition2\: (Vector Space)$$ 
+$$Definition2\: (Vector\: Space)$$ 
 
 A vector space defined over a field $$F$$ is a set $$V$$ of elements called vectors, with (1) a binary operation $$V\times V→V$$ called **vector addition**, and (2) an operator $$F\times V→V$$ called a **scalar multiplication**.
 
