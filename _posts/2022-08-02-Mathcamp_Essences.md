@@ -94,7 +94,7 @@ If (i) $$∃n_{0}∈\mathbb{N}\:(or\:\mathbb{Z}_{+})$$ $$s.t.\:P(n_{0})$$ holds 
 $$Theorem5\:(Archimedian\:property,\:Density\:of\:\mathbb{Q})$$
 
 (a) $$x,y∈\mathbb{R},\:and\:x>0⇒∃n∈\mathbb{Z}_{+}\:s.t.\:nx>y$$.
-(b) $$x,y∈\mathbb{R},\:and\:x<y⇒∃p∈\mathbb{Q}\s.t.\:x<p<y$$.
+(b) $$x,y∈\mathbb{R},\:and\:x<y⇒∃p∈\mathbb{Q}\:s.t.\:x<p<y$$.
 
 $$proof$$ (skip (a))
 
