@@ -124,7 +124,7 @@ $$Definition3\:(Inverse\:relation)$$ : $$R^{-1}:=\{(y,x)∈Y×X:(x,y)∈R\}$$
 
 - Note that inverse relation still depends on R.
 
-$$Definition4\:(Image\: set \:of\: a\: set)$$ $$R⊂X×Y,\:A⊂X$$. The $$R(A):=\{y∈Y : ∃x∈A\:s.t.\:(x,y)∈R\}
+$$Definition4\:(Image\: set \:of\: a\: set)$$ $$R⊂X×Y,\:A⊂X$$. The $$R(A):=\{y∈Y : ∃x∈A\:s.t.\:(x,y)∈R\}$$
 
 - From the $$Def4$$, $$R(A)=∪_{x∈A}R(x).$$ Note that $$R(x)$$ may not be singleton.
 
@@ -136,8 +136,9 @@ $$Definition6\:(Domain)\:D_{R}:=R^{-1}(Y)={x∈X:R(x)≠ϕ}$$
 
 - In words, the set of points in $$X\:s.t.$$ each point has at least one image in $$Y$$.
 
-$$Definition7\:(Range)\:R_{R}:=R(X)={y∈Y:R^{-1}(Y)≠ϕ}
+$$Definition7\:(Range)\:R_{R}:=R(X)={y∈Y:R^{-1}(Y)≠ϕ}$$
 
+![](/assets/img/domain_and_range1024_1.jpg)
 # Vector Space, Metric Space, Limit, and Continuity
 
 $$Definition1\: (Field)$$
