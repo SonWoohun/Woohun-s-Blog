@@ -84,7 +84,9 @@ $$⇒A^{c}∩B^{c}=B^{c}⇒A∪B=B\:(∵De\:Morgan's\:Laws)⇒A⊂B.∎$$
 ### Mathematical Induction
 
 $$Theorem4$$
+
 $$P :$$ A property that $$\mathbb{N}\:(or\:\mathbb{Z}_{+})$$ may or may not have.
+
 If (i) $$∃n_{0}∈\mathbb{N}\:(or\:\mathbb{Z}_{+})$$ $$s.t.\:P(n_{0})$$ holds and (ii) $$∀n∈\mathbb{N}\:(or\:\mathbb{Z}_{+})$$, $$P(n)⇒P(n+1)$$, then $$P$$ holds for $$∀n∈\mathbb{N}\:(or\:\mathbb{Z}_{+})$$ $$s.t.\:n≥n_{0}$$.
 
 ### Rudin, PMA part
