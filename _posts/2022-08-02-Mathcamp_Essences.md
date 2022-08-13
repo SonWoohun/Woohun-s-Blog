@@ -142,6 +142,33 @@ $$Definition7\:(Range)\:R_{R}:=R(X)={y∈Y:R^{-1}(Y)≠ϕ}$$
 
 $$Definition8\:(Sub-relation\:or\:restriction)\:R,S⊂X×Y. S⊂R⇒S: $$ sub-relation, or restriction of $$R$$
 
+- At the same time, $$R$$ is an extension of $$S$$.
+
+$$Definition9\:(Reflexive,\:Symmetric,\:Antisymmetric,\:Transitive)$$ $$R⊂X×Y,$$ then $$∀x,y,z∈X$$
+
+1. $$x∈R(x)⇒R\: :$$ reflexive,
+1. $$"x∈R(y)⇔y∈R(x)"⇒R\: :$$ symmetric,
+1. $$"x∈R(y)\&y∈R(x)⇔x=y"⇒R\: :$$ antisymmetric, and
+1. $$"x∈R(y)\&y∈R(z)⇒x∈R(z)"⇒R\: :$$ transitive.
+
+$$Example1$$ $$"≥"…x≥x$$ (reflexive), $$x_{1}≥x_{2}⇎x_{2}≥x_{1}$$ (not symmetric), $$x_{1}≥x_{2}\&x_{2}≥x_{1}⇔x_{1}=x_{2}$$ (antisymmetric), and $$x_{1}≥x_{2}\&x_{2}≥x_{3}⇒x_{1}≥x_{3}$$ (transitive).
+
+$$Definition10\:(Partial\:Preordering) \:⪰⊂X×X.\:1.\:∀x∈X,\:x⪰x$$ and $$2. \:∀x,y,z∈X,\:x⪰y\&y⪰z⇒x⪰z$$, then $$⪰\: :$$ Partial Preordering (PPO).
+
+$$Definition11\:(Preordering) \:⪰⊂X×X.\:1.\:∀x∈X,\:x⪰x,$$ $$2. \:∀x,y,z∈X,\:x⪰y\&y⪰z⇒x⪰z$$, and $$3. ∀x,y∈X,\:x⪰y\:or\:y⪰x,\:or\:both,$$ then $$⪰\: :$$ Preordering (PO).
+
+$$Definition12\:(Ordering) \:⪰⊂X×X.\:1.\:∀x∈X,\:x⪰x,$$ $$2. \:∀x,y,z∈X,\:x⪰y\&y⪰z⇒x⪰z$$, $$3. ∀x,y∈X,\:x⪰y\:or\:y⪰x,\:or\:both,$$ and $$4. ∀x,y∈X,\:x⪰y\&y⪰x⇔x=y,$$ then $$⪰\: :$$ Ordering (O).
+
+![](/assets/img/PPO_PO_O_table.jpg)
+
+- The antisymmetricity rules out the possibility of "indifference curve".
+
+$$Definition13\:(Ordered\:set)$$ $$⪰⊂X×X$$ : PPO/PO/O $$⇒X$$ : PPO/PO/O'ed set.
+
+$$Definition14\:(Maximal\&Minimal\:elements)$$ $$⪰⊂X×X:$$ PPO, $$X$$ : PPO'ed set, then $$∀x∈X,$$
+
+$$∄x≠\bar{x}\:s.t.\:x⪰\bar{x}\&\bar{x}⪰̸x$$
+
 # Vector Space, Metric Space, Limit, and Continuity
 
 $$Definition1\: (Field)$$
