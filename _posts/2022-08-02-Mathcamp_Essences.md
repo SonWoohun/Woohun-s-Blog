@@ -167,7 +167,27 @@ $$Definition13\:(Ordered\:set)$$ $$⪰⊂X×X$$ : PPO/PO/O $$⇒X$$ : PPO/PO/O'e
 
 $$Definition14\:(Maximal\&Minimal\:elements)$$ $$⪰⊂X×X:$$ PPO, $$X$$ : PPO'ed set, then $$∀x∈X,$$
 
-$$∄x≠\bar{x}\:s.t.\:x⪰\bar{x}\&\bar{x}⪰̸x$$
+$$∄x≠\bar{x}\:s.t.\:x⪰\bar{x}\&\bar{x}⪰̸x⇒\bar{x}$$ : maximal with respect to $$⪰$$.
+
+$$∄x≠\underline{x}\:s.t.\:x⪯\underline{x}\&\underline{x}⪯̸x⇒\underline{x}$$ : minimal with respect to $$⪰$$.
+
+$$Definition15\:(Largest\&Smallest\:elements)$$ $$⪰⊂X×X:$$ PO, $$X$$ : PO'ed set, then $$∀x∈X,$$
+
+$$∃\bar{z}∈X\:s.t.\:\bar{z}⪰x⇒\bar{z}$$ : largest in $$X$$.
+
+$$∃\underline{z}∈X\:s.t.\:\underline{z}⪯x⇒\underline{z}$$ : smallest in $$X$$.
+
+- The maximal cannot be strictly dominated by anything, and the minimal can strictly dominate nothing.
+
+-The largest can dominate every other elements, and the smallest can be dominated by every other elements.
+
+- If it is the largest/smallest, then it is the maximal/minimal, but not the other way around. This is because, "non-comparable pair" may be possible in PPO.
+
+$$Example2$$ $$X={-4,0,1,2,4,a}…a$$ : maximal & minimal, but not the largest or smallest. Also, -4 & 4 cannot be the smallest/largest in $$X$$. They are the minimal/maximal.
+
+
+
+
 
 # Vector Space, Metric Space, Limit, and Continuity
 
