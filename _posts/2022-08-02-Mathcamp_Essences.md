@@ -99,9 +99,13 @@ $$Theorem5\:(Archimedian\:property,\:Density\:of\:\mathbb{Q})$$
 $$proof$$ (skip (a))
 
 (b) $$x<y⇒y-x>0$$. Then by (a), $$∃n∈\mathbb{Z}_{+}\:s.t.\:n(y-x)>1.$$
+
 Again by (a), $$∃m_{1},m_{2}∈\mathbb{Z}_{+}\:s.t.\:m_{1}×1>nx\:\&\:m_{2}×1>-nx.$$
+
 Then, $$-m_{2}<nx<m_{1}.$$
+
 This means $$∃m∈\mathbb{Z}_{+}\:s.t.\:-m_{2}≤m≤m_{1}\:\&\:m-1≤nx≤m.$$
+
 Thus, $$nx<m≤1+nx<ny.$$ Since, $$n>0,\:x<\frac{m}{n}<y. ∎$$
 
 
