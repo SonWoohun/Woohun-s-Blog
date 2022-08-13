@@ -77,7 +77,6 @@ $$Theorem3\:∀A,B⊂X,\:A⊂B⇔A^{c}∪B=X$$
 $$proof$$
 $$(\lvert⇒)\:A⊂B⇒A∩B=B⇒A^{c}∪B^{c}=A^{c}\:(∵ De\:Morgan's\:Laws)$$ 
 then 
-
 $$A^{c}∪B=(A^{c}∪B^{c})∪B=A^{c}∪(B^{c}∪B)=A^{c}∪X=X\:(∵associative).∎$$
 $$(⇐\rvert)\:A^{c}∪B=X⇒(A^{c}∪B)∩B^{c}=(A^{c}∩B^{c})∪(B∩B^{c})=B^{c}$$
 $$⇒A^{c}∩B^{c}=B^{c}⇒A∪B=B\:(∵De\:Morgan's\:Laws)⇒A⊂B.∎$$
@@ -87,6 +86,24 @@ $$⇒A^{c}∩B^{c}=B^{c}⇒A∪B=B\:(∵De\:Morgan's\:Laws)⇒A⊂B.∎$$
 $$Theorem4$$
 $$P :$$ A property that $$\mathbb{N}\:(or\:\mathbb{Z}_{+})$$ may or may not have.
 If (i) $$∃n_{0}∈\mathbb{N}\:(or\:\mathbb{Z}_{+})$$ $$s.t.\:P(n_{0})$$ holds and (ii) $$∀n∈\mathbb{N}\:(or\:\mathbb{Z}_{+})$$, $$P(n)⇒P(n+1)$$, then $$P$$ holds for $$∀n∈\mathbb{N}\:(or\:\mathbb{Z}_{+})$$ $$s.t.\:n≥n_{0}$$.
+
+### Rudin, PMA part
+
+(p.9)
+
+$$Theorem5\:(Archimedian\:property,\:Density\:of\:\mathbb{Q})$$
+
+(a) $$x,y∈\mathbb{R},\:and\:x>0⇒∃n∈\mathbb{Z}_{+}\:s.t.\:nx>y$$.
+(b) $$x,y∈\mathbb{R},\:and\:x<y⇒∃p∈\mathbb{Q}\s.t.\:x<p<y$$.
+
+$$proof$$ (skip (a))
+
+(b) $$x<y⇒y-x>0$$. Then by (a), $$∃n∈\mathbb{Z}_{+}\:s.t.\:n(y-x)>1.$$
+Again by (a), $$∃m_{1},m_{2}∈\mathbb{Z}_{+}\:s.t.\:m_{1}×1>nx\:\&\:m_{2}×1>-nx.$$
+Then, $$-m_{2}<nx<m_{1}.$$
+This means $$∃m∈\mathbb{Z}_{+}\:s.t.\:-m_{2}≤m≤m_{1}\:\&\:m-1≤nx≤m.$$
+Thus, $$nx<m≤1+nx<ny.$$ Since, $$n>0,\:x<\frac{m}{n}<y. ∎$$
+
 
 # Relation and Function
 
@@ -99,9 +116,21 @@ $$Definition2\:(Binary\:Relation\:from\:X\:to\:Y)$$ : $$R⊂X×Y$$
 
 $$Definition3\:(Inverse\:relation)$$ : $$R^{-1}:=\{(y,x)∈Y×X:(x,y)∈R\}$$
 
--Note that inverse relation still depends on R.
+- Note that inverse relation still depends on R.
 
-$$Definition4\:(Image set of a set)$$ $$R⊂X×Y,\:A⊂X$$. The $$R(A):=\{y∈Y : ∃x∈A\:s.t.\:(x,y)∈R\}
+$$Definition4\:(Image\: set \:of\: a\: set)$$ $$R⊂X×Y,\:A⊂X$$. The $$R(A):=\{y∈Y : ∃x∈A\:s.t.\:(x,y)∈R\}
+
+- From the $$Def4$$, $$R(A)=∪_{x∈A}R(x).$$ Note that $$R(x)$$ may not be singleton.
+
+$$Definition5\:(Inverse\:image\:set\:of\:a\:set)$$ $$R⊂X×Y,\:B⊂Y.\:R^{-1}(B):={x∈X:∃y∈B\:s.t.\:(x,y)∈R}$$
+
+- Similarly, $$R(B)=∪_{y∈B}R^{-1}(y).$$
+
+$$Definition6\:(Domain)\:D_{R}:=R^{-1}(Y)={x∈X:R(x)≠ϕ}$$
+
+- In words, the set of points in $$X\:s.t.$$ each point has at least one image in $$Y$$.
+
+$$Definition7\:(Range)\:R_{R}:=R(X)={y∈Y:R^{-1}(Y)≠ϕ}
 
 # Vector Space, Metric Space, Limit, and Continuity
 
@@ -129,6 +158,22 @@ A $$field$$ is a set $$F$$ with two operations : $$addition$$ and $$multiplicati
 
 $$(x+y)×z=x×z+y×z$$
 
+### Rudin, PMA part
+
+p.9
+
+How do we prove $$\mathbb{R}\backslash\mathbb{Q}$$ is dense in $$\mathbb{R}.$$
+
+$$proof$$
+
+Let $$k∈\mathbb{R}\backslash\mathbb{Q}. $$ $$x<y⇒\frac{x}{k}<\frac{y}{k}.$$ Then, by  $$Thm5$$ in Set and Logic, $$∃p∈\mathbb{Q}\:s.t.\:x<kp<y.$$
+If $$kp∈\mathbb{R}\backslash\mathbb{Q},$$ then the statement is proved.
+
+WTS: $$∀x∈\mathbb{R}\backslash\mathbb{Q}\:and\:∀y∈\mathbb{Q},\:xy∈\mathbb{R}\backslash\mathbb{Q}.$$
+
+Assume $$xy∈\mathbb{Q},$$ then, since $$\mathbb{Q}⊂\mathbb{R}$$ and $$\mathbb{R}\: :\:field,$$ $$\mathbb{Q}$$ is closed in multiplication and $$\frac{1}{y}∈\mathbb{Q}$$.
+$$⇒xy×\frac{1}{y}=x∈\mathbb{Q}.$$
+This makes contradiction with $$x∈\mathbb{R}\backslash\mathbb{Q}. \:∎$$
 
 $$Definition2\: (Vector\: Space)$$ 
 
