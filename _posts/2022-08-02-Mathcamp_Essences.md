@@ -139,6 +139,9 @@ $$Definition6\:(Domain)\:D_{R}:=R^{-1}(Y)={x∈X:R(x)≠ϕ}$$
 $$Definition7\:(Range)\:R_{R}:=R(X)={y∈Y:R^{-1}(Y)≠ϕ}$$
 
 ![](/assets/img/domain_and_range1024_1.jpg)
+
+$$Definition8\:(Sub-relation\:or\:restriction)\:R,S⊂X×Y. S⊂R⇒S: $$ sub-relation, or restriction of $$R$$
+
 # Vector Space, Metric Space, Limit, and Continuity
 
 $$Definition1\: (Field)$$
