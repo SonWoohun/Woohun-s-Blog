@@ -195,13 +195,13 @@ $$∃β∈S\:s.t.\:∀x∈E,\:x≤β⇒E$$ : bounded above, $$β$$ : upperbound 
 
 $$∃γ∈S\:s.t.\:∀x∈E,\:x≥γ⇒E$$ : bounded below, $$γ$$ : lowerbound of $$E$$.
 
-$$Definition17\:(Least\:Upper\:Bound(LUB) \:or \:Supremum(Sup))$$ $$≥:S×S:O,\:S\: :\:O set,\:E⊂S,\:E\: : \:bounded above.$$
+$$Definition17\:(Least\:Upper\:Bound(LUB) \:or \:Supremum(Sup))$$ $$≥:S×S:O,\:S\: :\:O\: set,\:E⊂S,\:E\:$$ : bounded above.
 
-$$∃α∈S\:s.t.\:[\{∀x∈E,\:x≤α\}\&\{∀γ∈S\:s.t.\:\\(γ<α\),\: ∃x∈E,x>γ\}]⇒α$$ : LUB of $$E$$ $$⇔α=supE$$.
+$$∃α∈S\:s.t.\:[{∀x∈E,\:x≤α}\&{∀γ∈S\:s.t.\:(γ<α),\: ∃x∈E,x>γ}]⇒α$$ : LUB of $$E$$ $$⇔α=supE$$.
 
-$$Definition18\:(Greatest\:Lower\:Bound(GLB) \:or\: Infimum(Inf))$$ $$≥:S×S:O,\:S\: :\:O set,\:E⊂S,\:E\: : \:bounded below.$$
+$$Definition18\:(Greatest\:Lower\:Bound(GLB) \:or\: Infimum(Inf))$$ $$≥:S×S:O,\:S\: :\:O\: set,\:E⊂S,\:E\:$$ : bounded below.
 
-$$∃β∈S\:s.t.\:[\{∀x∈E,\:x≥β\}\&\{∀γ∈S\:s.t.\:\\(γ>β\),\: ∃x∈E,x<γ\}]⇒α$$ : GLB of $$E$$ $$⇔α=InfE$$.
+$$∃β∈S\:s.t.\:[{∀x∈E,\:x≥β}\&{∀γ∈S\:s.t.\:\(γ>β),\: ∃x∈E,x<γ}]⇒α$$ : GLB of $$E$$ $$⇔α=InfE$$.
 
 ## Function
 
