@@ -207,13 +207,18 @@ $$∃β∈S\:s.t.\:[{∀x∈E,\:x≥β}\&{∀γ∈S\:s.t.\:\(γ>β),\: ∃x∈E,
 
 $$Definition19\:(Function)$$ $$f⊂X×Y\:s.t.\:∀x∈X,\:∃!y∈Y\:(s.t.\:y∈f(x))⇒f$$ : function from $$X$$ to $$Y$$ $$⇔f:X→Y$$.
 
-$$Definition20\:(Domain,\:Range,\:Image,\:\&\:Inverse\:image)$$ $$f:X→Y,\:A⊂X,$$
+$$Definition20\:(Domain,\:Range,\:Image,\:\&\:Inverse\:image)$$ $$f:X→Y,\:A⊂X,\:B⊂Y$$
 
 $$X$$ : domain of $$f$$,
 
 $$f(X)$$ : range of $$f$$,
 
-$$
+$$f(A)$$ : image set of $$A$$, and
+
+$$f^{-1}(B)$$ : inverse image set of $$B$$.
+
+- Recall that $$f(A)={y∈Y:∃x∈A\:s.t.\:y∈f(x)}=∪_{x∈A}$$ and $$f^{-1}(B)={x∈X:∃y∈B\:s.t.\:y=f(x)}$$. 
+
 
 # Vector Space, Metric Space, Limit, and Continuity
 
