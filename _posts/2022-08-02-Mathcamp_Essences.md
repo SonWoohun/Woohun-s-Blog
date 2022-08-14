@@ -185,9 +185,23 @@ $$∃\underline{z}∈X\:s.t.\:\underline{z}⪯x⇒\underline{z}$$ : smallest in 
 
 $$Example2$$ $$X={-4,0,1,2,4,a}…a$$ : maximal & minimal, but not the largest or smallest. Also, -4 & 4 cannot be the smallest/largest in $$X$$. They are the minimal/maximal.
 
+### Rudin, PMA part
 
+(p.3)
 
+$$Definition16\:(Bounded,\:Bounds)$$ $$≥⊂S×S:\:O,\:S\: :\:O\:set,\:E⊂S.$$
 
+$$∃β∈S\:s.t.\:∀x∈E,\:x≤β⇒E$$ : bounded above, $$β$$ : upperbound of $$E$$.
+
+$$∃γ∈S\:s.t.\:∀x∈E,\:x≥γ⇒E$$ : bounded below, $$γ$$ : lowerbound of $$E$$.
+
+$$Definition17\:(Least\:Upper\:Bound(LUB) or Supremum(Sup))$$ $$≥:S×S:O,\:S\: :\:O set,\:E⊂S,\:E\: : \:bounded above.$$
+
+$$∃α∈S\:s.t.\:\[\{∀x∈E,\:x≤α\}\&\{∀γ∈S\:s.t.\:\\(γ<α\),\: ∃x∈E,x>γ\}\]⇒α$$ : LUB of $$E$$ $$⇔α=supE$$.
+
+$$Definition18\:(Greatest\:Lower\:Bound(GLB) or Infimum(Inf))$$ $$≥:S×S:O,\:S\: :\:O set,\:E⊂S,\:E\: : \:bounded below.$$
+
+$$∃β∈S\:s.t.\:\[\{∀x∈E,\:x≥β\}\&\{∀γ∈S\:s.t.\:\\(γ>β\),\: ∃x∈E,x<γ\}\]⇒α$$ : GLB of $$E$$ $$⇔α=InfE$$.
 
 # Vector Space, Metric Space, Limit, and Continuity
 
