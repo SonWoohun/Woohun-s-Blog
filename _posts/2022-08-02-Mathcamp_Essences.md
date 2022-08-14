@@ -197,11 +197,11 @@ $$∃γ∈S\:s.t.\:∀x∈E,\:x≥γ⇒E$$ : bounded below, $$γ$$ : lowerbound 
 
 $$Definition17\:(Least\:Upper\:Bound(LUB) \:or \:Supremum(Sup))$$ $$≥:S×S:O,\:S\: :\:O\: set,\:E⊂S,\:E\:$$ : bounded above.
 
-$$∃α∈S\:s.t.\:[{∀x∈E,\:x≤α}\&{∀γ∈S\:s.t.\:(γ<α),\: ∃x∈E,x>γ}]⇒α$$ : LUB of $$E$$ $$⇔α=supE$$.
+$$∃α∈S\:s.t.\:[\{∀x∈E,\:x≤α\}\&\{∀γ∈S\:s.t.\:(γ<α),\: ∃x∈E,x>γ\}]⇒α$$ : LUB of $$E$$ $$⇔α=supE$$.
 
 $$Definition18\:(Greatest\:Lower\:Bound(GLB) \:or\: Infimum(Inf))$$ $$≥:S×S:O,\:S\: :\:O\: set,\:E⊂S,\:E\:$$ : bounded below.
 
-$$∃β∈S\:s.t.\:[{∀x∈E,\:x≥β}\&{∀γ∈S\:s.t.\:\(γ>β),\: ∃x∈E,x<γ}]⇒α$$ : GLB of $$E$$ $$⇔α=InfE$$.
+$$∃β∈S\:s.t.\:[\{∀x∈E,\:x≥β\}\&\{∀γ∈S\:s.t.\:(γ>β),\: ∃x∈E,x<γ\}]⇒α$$ : GLB of $$E$$ $$⇔α=InfE$$.
 
 ## Function
 
@@ -217,7 +217,7 @@ $$f(A)$$ : image set of $$A$$, and
 
 $$f^{-1}(B)$$ : inverse image set of $$B$$.
 
-- Recall that $$f(A)={y∈Y:∃x∈A\:s.t.\:y∈f(x)}=∪_{x∈A}$$ and $$f^{-1}(B)={x∈X:∃y∈B\:s.t.\:y=f(x)}$$. 
+- Recall that $$f(A)={y∈Y:∃x∈A\:s.t.\:y∈f(x)}=∪_{x∈A}f(x)$$ and $$f(x)$$ is always singleton in function compared to relations. $$f^{-1}(B)={x∈X:∃y∈B\:s.t.\:y=f(x)}$$. The last part of inverse image set differs from image set due to the uniqueness of $$f(x)$$.
 
 
 # Vector Space, Metric Space, Limit, and Continuity
