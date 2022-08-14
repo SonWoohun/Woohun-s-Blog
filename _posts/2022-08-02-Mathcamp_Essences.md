@@ -279,7 +279,7 @@ $$(\lvert⇒)$$ Since $$\{s_{n}\}→s,\:∃N∈\mathbb{N},\:s.t.\:\lvert s_{n}-s
 Then, pick $$r=max{1,\lvert s_{1}-s\rvert,…,\lvert s_{N}-s\rvert}\dots
 Then, $$∀n∈\mathbb{N},\:\lvert s_{n}-s\rvert<r.$$
 
-This means that we can come up with an open ball with radius $$r$$ and center $$s$$ that contains all the elements in $$\{s_{n}\}$$. $$\QED$$
+This means that we can come up with an open ball with radius $$r$$ and center $$s$$ that contains all the elements in $$\{s_{n}\}. ∎$$
 
 # Vector Space, Metric Space, Limit, and Continuity
 
@@ -378,6 +378,20 @@ $$proof$$
 $$Definition7\:(Euclidean \:space)$$ 
 
 The $$n$$-dimensional **Euclidean space** is a normed vector space, $$E^{n}\left(\mathbb{R}^{n},d_{E}\right)$$, where $$d_{E}(x,y)=\|x-y\|_{E}=\sqrt{∑_{i=1}^{n}(x_{i}-y_{i})^{2}}$$
+
+$$Theorem 2\: d_{E}\::\:Norm$$
+
+$$proof$$ We have to show that $$d_{E}$$ suffices 1.~4. in the $$Def.5$$. 1, 2, and 4 is rather trivial. We will only show 3. 
+3. $$∑_{i}(x_{i}+y_{i})^{2}=∑_{i}(x_{i}^{2}+2x_{i}y_{i}+y_{i}^{2})=∑_{i}x_{i}^{2}+2∑_{i}x_{i}y_{i}+∑_{i}y_{i}^{2}$$
+
+$$≤∑_{i}x_{i}^{2}+2\sqrt{∑_{i}x_{i}^{2}}\sqrt{∑_{i}y_{i}^{2}}+∑_{i}y_{i}^{2}=(\sqrt{∑_{i}x_{i}^{2}}+\sqrt{∑_{i}y_{i}^{2}})^{2}\:(∵Chauchy-Schwartz\:inequality)$$
+
+$$∴\sqrt{∑_{i}(x_{i}+y_{i})^{2}}≤\sqrt{∑_{i}x_{i}^{2}}+\sqrt{∑_{i}y_{i}^{2}}\:∎$$
+
+$$Theorem3\:(Uniqueness\:of\:limit)\:(X,d)\::\:metric\:space,\:\{x_{n}\}:\mathbb{N}→X.\:\{x_{n}\}$$ has at most one limit.
+
+$$proof$$
+
 
 # Vector Subspace and Affine Subspace
 
