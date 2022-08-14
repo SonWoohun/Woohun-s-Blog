@@ -217,11 +217,75 @@ $$f(A)$$ : image set of $$A$$, and
 
 $$f^{-1}(B)$$ : inverse image set of $$B$$.
 
-- Recall that $$f(A)={y∈Y:∃x∈A\:s.t.\:y∈f(x)}=∪_{x∈A}f(x)$$ and $$f(x)$$ is always singleton in function compared to relations. $$f^{-1}(B)={x∈X:∃y∈B\:s.t.\:y=f(x)}$$. The last part of inverse image set differs from image set due to the uniqueness of $$f(x)$$.
+- Recall that $$f(A)=\{y∈Y:∃x∈A\:s.t.\:y∈f(x)\}=∪_{x∈A}f(x)$$ and $$f(x)$$ is always singleton in function compared to relations. $$f^{-1}(B)=\{x∈X:∃y∈B\:s.t.\:y=f(x)\}$$. The last part of inverse image set differs from image set due to the uniqueness of $$f(x)$$.
 
+$$Definition21\:(Surjective(Onto))$$ $$f:X→Y.\:f(X)=Y⇒f$$ : surjective, or onto $$Y$$.
+
+$$Definition22\:(Injective(one-to-one))$$ $$f:X→Y.\:∀x_{1},x_{2}∈X\:s.t.\:x_{1}≠x_{2},\:f(x_{1})≠f(x_{2})$$.
+
+- Surjective means "no leftover elements in $$Y$$." Injective means "no overlaps between $$f(x)$$ values."
+
+$$Definition23\:(Bijective(one-to-one\:correspondence))$$ $$f:X→Y.$$
+
+$$f(X)=Y\:\&\:∀x_{1},x_{2}∈X\:s.t.\:x_{1}≠x_{2},\:f(x_{1})≠f(x_{2})⇒f$$ : bijective.
+
+$$Definition24\:(Correspondence)$$ $$Ψ⊂X×Y\:s.t.\:Ψ:X→P(Y)⇒Ψ$$ : correspondence $$⇔Ψ:X→→Y.$$
+
+- The definition of correspondence is not rigorous. But the point is that correspondence is like a function that is from $$X$$ to the power set of $$Y$$. Function is a special case of correspondence, since it is a correspondence from $$X$$ to a subset of $$P(Y)$$ whose elements are elements of $$Y$$.
+
+### Rudin, PMA part
+
+(p.26)
+$$Definition25\:(Sequence)\:f:\mathbb{N}(or\:\mathbb{Z})→Y⇒f$$ : sequence.
+
+- $$s_{n}:=f(n)\:\&\:\{s_{n}\}:=f(\mathbb{N})$$ is used customarily.
+
+(p.55)
+$$Definition26\:(Monotone\:Sequences)\:\{s_{n}\}:\mathbb{N}→\mathbb{R}.$$
+
+$$1. \:s_{n}≤s_{n+1}⇒\{s_{n}\}$$ : monotonically increasing, and
+
+$$2. \:s_{n}≥s_{n+1}⇒\{s_{n}\}$$ : monotonically decreasing.
+
+(p.32)
+$$Definition27\:(Bounded\:set)$$ $$(X,d)$$ : metric space, $$E⊂X.$$
+
+$$∃M∈\mathbb{R}\:\&\:∃q∈X\:s.t.\:∀p∈E,\:d(p,q)<M⇒E$$ : bounded.
+
+(p.47)
+$$Definition28\:(Convergence)$$ $$(X,d)$$ : metric space, $$\{p_{n}\}:\mathbb{N}→X.$$
+
+$$∃p∈X\:s.t.\:[∀ϵ>0,∃N∈\mathbb{N}\:s.t.\:∀n>N,\:d(p_{n},p)<ϵ]⇒\{p_{n}\}$$ : converges to $$p$$ $$⇔\:p_{n}→p.$$
+
+(p.48)
+$$Definition29\:(Bounded\:sequence)$$ $$(X,d)$$ : metric space, $$f:\mathbb{N}→X.$$
+
+$$f(\mathbb{N})$$ : bounded $$⇒\:f$$ : bounded.
+
+- Note that $$f(\mathbb{N})$$ is the range of  the sequence.
+
+(p.55)
+$$Theorem1\:\{s_{n}\}\::\:monotone,\:then\:s_{n}→s⇔\{s_{n}\}\::\:bounded.$$
+
+$$proof$$
+
+WLOG, $$∀n∈\mathbb{N},\:s_{n}≤s_{n+1}.$$
+$$(⇐\rvert)$$ Since $$\{s_{n}\}$$ : bounded, $$∃supR_{\{s_{n}\}}=:s.$$ $$∴s_{n}≤s,\:∀n∈\mathbb{N}.$$
+
+Then, $$∀ϵ>0,∃N∈\mathbb{N}\:(s.t.\:∀n≥N,\:s-ϵ<s_{n}≤s)⇒\lvert s_{n}-s \rvert<ϵ. ∎$$
+
+$$(\lvert⇒)$$ Since $$\{s_{n}\}→s,\:∃N∈\mathbb{N},\:s.t.\:\lvert s_{n}-s\rvert <1.$$ 
+
+Then, pick $$r=max{1,\lvert s_{1}-s\rvert,…,\lvert s_{N}-s\rvert}\dots
+Then, $$∀n∈\mathbb{N},\:\lvert s_{n}-s\rvert<r.$$
+
+This means that we can come up with an open ball with radius $$r$$ and center $$s$$ that contains all the elements in $$\{s_{n}\}$$. $$\QED$$
 
 # Vector Space, Metric Space, Limit, and Continuity
 
+### Rudin, PMA part
+
+(p.5)
 $$Definition1\: (Field)$$
 
 A $$field$$ is a set $$F$$ with two operations : $$addition$$ and $$multiplication$$ $$s.t.$$ satisfies the following axioms.
@@ -246,10 +310,8 @@ A $$field$$ is a set $$F$$ with two operations : $$addition$$ and $$multiplicati
 
 $$(x+y)×z=x×z+y×z$$
 
-### Rudin, PMA part
 
-p.9
-
+(p.9)
 How do we prove $$\mathbb{R}\backslash\mathbb{Q}$$ is dense in $$\mathbb{R}.$$
 
 $$proof$$
