@@ -5,7 +5,7 @@ subtitle: I try to go deep but stop and forget it long
 usemathjax: true
 ---
 
-My name is Son Woohun. I think it can be pronounced better by "Sohn Wooheon".
+My name is Son, Woohun. I think it can be pronounced better by "Sohn, Wooheon".
 
 
 I am a Ph.D. student in Economics at the Ohio State University (OSU), now. This blog is not my professional blog yet. But I might soon change it into such as soon as I have something to post for that, LOL.
