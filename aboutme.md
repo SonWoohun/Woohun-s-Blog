@@ -7,6 +7,7 @@ usemathjax: true
 
 My name is Son Woohun. I think it can be pronounced better by "Sohn Wooheon".
 
+
 I am a Ph.D. student in Economics at the Ohio State University (OSU), now. This blog is not my professional blog yet. But I might soon change it into such as soon as I have something to post for that, LOL.
 
 I am interested in many things. Frankly speaking, I frequently get absorbed in things that intrigue me at a point in time. Diving deep into various subjects makes me unaware of the passage of time. However, as soon as the magic ends, I stop driving into those worlds and then precipitously forget about the subjects I once loved. That's why this blog is needed.
