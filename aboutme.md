@@ -5,6 +5,8 @@ subtitle: I try to go deep but stop and forget it long
 usemathjax: true
 ---
 
+![Me](assets/img/SonWoohun-downsized.jpg)
+
 My name is Son, Woohun. I think it can be pronounced better by "Sohn, Wooheon".
 
 
