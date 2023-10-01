@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 subtitle: I try to go deep but stop and forget it long
 usemathjax: true
 ---
