@@ -20,5 +20,5 @@ I was deeply impressed by humanism despite one of the most tragic scenes in the 
 ![A Tombstone for a Child from Hundred Ancestors](assets/img/monument_HAOC.jpg)
 ("Tombs and Monument for a Child from Hundred Ancestors" at 586-1, Sangmo-ri, Daejeong-eup, Seogwipo-si, Jeju-do, Republic of Korea)
 
-![Realm of HAOC](assets/img/The Realm of HAOC.jpg)
+![A Tombstone for a Child from Hundred Ancestors](assets/img/The_Realm_of_HAOC.jpg)
 (Tombstone wrote "The Realm for a Child from Hundred Ancestors". The poem is inscribed on the lateral side.)
