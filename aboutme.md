@@ -24,12 +24,19 @@ I was deeply impressed by humanism despite one of the most tragic scenes in the 
 
 The Way of a Child from Hundred Ancestors
 
+
 Hundred and thirty-two descendants
+
 each from different ancestors
+
 died on the same day,
+
 same time and
-same place
-mixed into a chunk of bones
+
+same place,
+
+mixed into a chunk of bones,
+
 resurrected as one child.
 
 May 18th 1956
