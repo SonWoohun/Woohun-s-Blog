@@ -22,7 +22,7 @@ which pertains to the Jeju 4.3 uprising
 
 I was deeply impressed by humanism despite one of the most tragic scenes in the modern history of Korea. Not to lose this sort of warmth myself, I put it as the title of this blog. Let me translate the poem as follows : 
 
-The Way of a Child from Hundred Ancestors
+-The Way of a Child from Hundred Ancestors-
 
 
 Hundred and thirty-two descendants
