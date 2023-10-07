@@ -14,4 +14,3 @@ Now to make the model into a logit model, we have to assume that each error term
 - $$ɛ_{ij}\overset{iid}{\sim}EV \:I$$
 
 Since Gumbel distribution is not symmetric (skewed) and mean is not zero, it is sometimes cumbersome to explain what this kind of error structure implies. Although the problem of interpretation of error terms persists, what is important is the difference between the utility since this is the discrete choice model. We go over to the next stage of distribution of the difference between the two error terms, a logistic (logit) distribution. The c.d.f. of the logistic distribution for $$ϵ_{ijj'}:=ɛ_{ij}-ɛ_{ij'}$$ will be $$\Pr(ϵ_{ijj'}\leq t)=\frac{e^{t}}{1+e^{t}}$$.
-
