@@ -14316,7 +14316,8 @@ P_{ij|A_{l}}=\frac{e^{\frac{u_{ij}}{λ}}}{\underset{j\in A_{l}}{\sum}e^{\frac{u_
 \end{align*}
 and thus, since the choice probability of good $j$ will be $P_{ij}=P_{il}P_{ij|A_{l}}$,
 \begin{align*}
-P_{ij}=\frac{e^{\frac{S_{l}}{\mu}}}{\underset{k=1}{\overset{K}{\sum}e^{\frac{S_{k}}{\mu}}}}\frac{e^{\frac{u_{ij}}{λ}}}{\underset{j\in A_{l}}{\sum}e^{\frac{u_{ij}}{λ}}}.
+P_{ij}&amp;=\frac{e^{\frac{S_{l}}{\mu}}}{\underset{k=1}{\overset{K}{\sum}}e^{\frac{S_{k}}{\mu}}}\frac{e^{\frac{u_{ij}}{λ}}}{\underset{j\in A_{l}}{\sum}e^{\frac{u_{ij}}{λ}}}=\frac{e^{\frac{λ\ln(\underset{j\in A_{l}}{\sum}e^{\frac{u_{ij}}{λ}})}{\mu}}}{\underset{k=1}{\overset{K}{\sum}}e^{\frac{λ\ln(\underset{j\in A_{l}}{\sum}e^{\frac{u_{ij}}{λ}})}{\mu}}}\frac{e^{\frac{u_{ij}}{λ}}}{\underset{j\in A_{l}}{\sum}e^{\frac{u_{ij}}{λ}}}\\
+&amp;=\frac{\left(\underset{j\in A_{l}}{\sum}e^{\frac{u_{ij}}{λ}}\right)^{\frac{λ}{μ}}}{\underset{k=1}{\overset{K}{\sum}}\left(\underset{j\in A_{k}}{\sum}e^{\frac{u_{ij}}{λ}}\right)^{\frac{λ}{μ}}}\frac{e^{\frac{u_{ij}}{λ}}}{\underset{j\in A_{l}}{\sum}e^{\frac{u_{ij}}{λ}}}=\frac{e^{\frac{u_{ij}}{λ}}\left(\underset{j\in A_{l}}{\sum}e^{\frac{u_{ij}}{λ}}\right)^{\frac{λ}{μ}-1}}{\underset{k=1}{\overset{K}{\sum}}\left(\underset{j\in A_{k}}{\sum}e^{\frac{u_{ij}}{λ}}\right)^{\frac{λ}{μ}}}.
 \end{align*}</p>
 
 </div>
