@@ -14266,7 +14266,7 @@ a.anchor-link {
 
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="Looking-into-Logit">Looking into Logit<a class="anchor-link" href="#Looking-into-Logit">&#182;</a></h1><p>I try to dip a little on the usage of logistic distribution in the discrete choice model literature. The content generally follows Kenneth E. Train's book "Discrete Choice Methods with Simulation (2003)", Chapter 3.</p>
+<h1 id="Looking-into-Logit-(In-progress)">Looking into Logit (In progress)<a class="anchor-link" href="#Looking-into-Logit-(In-progress)">&#182;</a></h1><p>I try to dip a little on the usage of logistic distribution in the discrete choice model literature. The content generally follows Kenneth E. Train's book "Discrete Choice Methods with Simulation (2003)", Chapter 3. It also highly depends on a calculation given by Anderson et al. (1992), "Discrete Choice Theory of Product Differentiation".</p>
 <h2 id="Settings">Settings<a class="anchor-link" href="#Settings">&#182;</a></h2><p>First, I introduce the definition of Random Utility Models which are the background of the derivations I will go through. The definition can be found in R. Duncan Luc and Patrick Suppes' "Preference, Utility, and Subjective Probability" (1965).</p>
 <p><strong><em>Definition (Random Utility Model)</em></strong></p>
 <p><em>Let $A$ : finite set of alternatives, $U:A→\mathbb{R}^{|A|}$ : random vector of utilities ($U(x)$ for $x\in A$ is a random variable). A <strong>random utility model</strong> is a set of preference probabilities defined for all subsets of a finite $A$ for which $\exists U$ on $A$ s.t. $\forall x\in Y\subseteq A$, the probability of $x$ being chosen in $Y$ is $\Pr[U(x)\geq U(y),y\in Y]$</em>.</p>
@@ -14276,16 +14276,55 @@ a.anchor-link {
 <li>$v_{ij}=u_{ij}+ɛ_{ij}$ for $\forall i=1,\dots,N$, $\forall j=1,\dots,J$.</li>
 <li>$ɛ_{ij}\overset{iid}{\sim}EV \:I$</li>
 </ul>
-<p>Since Gumbel distribution is not symmetric (skewed) and mean is not zero, it is sometimes cumbersome to explain what this kind of error structure implies.</p>
+<p>We call this kind of additively separable model as Additive Random Utility Model (ARUM).</p>
+<p>Since Gumbel distribution is not symmetric (skewed) and mean is not zero, it is sometimes cumbersome to explain what this kind of error structure implies. It is well-known that a random variable $X\sim EXP(1)$, then $-\ln(X)\sim EV I$. Then, let there be a multiplicative random utility model $V_{ij}\epsilon_{ij}$, where $\frac{1}{\epsilon_{ij}}∼EXP(1)$. Let $ln(V_{ij})=:v_{ij}$ and $\ln(ϵ_{ij})=-ln(\frac{1}{ϵ_{ij}})=:ɛ_{ij}$. Then, by taking a log on multiplicative random utility model, i.e., $ln(V_{ij}ϵ_{ij})=v_{ij}+ɛ_{ij}$ we get the ARUM model with error term following Gumbel distribution.</p>
 <h2 id="Derivation">Derivation<a class="anchor-link" href="#Derivation">&#182;</a></h2><p>Although the problem of interpretation of error terms persists, what is important in the discrete choice model is the difference between the utility since the criteria of one choosing a good from the choice set depends on whether the good gives the highest utility. We can express it as follows :</p>
 <ul>
 <li>$\forall j'\neq j$, $v_{ij}\geq v_{ij'}$ should hold.</li>
 </ul>
 <p>Then, let the probability of choosing good $j$ as $\text{P}_{ij}:=\Pr(v_{ij}\geq v_{ij'},\forall j'\neq j)$. It follows that $\text{P}_{ij}=\Pr(ɛ_{ij'}\leq u_{ij}-u_{ij'}+ɛ_{ij},\forall j'\neq j)$.</p>
 <p>Now, for a while let $ɛ_{ij}$ as given value. Then, $\text{P}_{ij}|ɛ_{ij}=\Pr(ɛ_{ij'}\leq u_{ij}-u_{ij'}+ɛ_{ij},\forall j'\neq j|ɛ_{ij})=\underbrace{\Pr(ɛ_{ij'}\leq u_{ij}-u_{ij'}+ɛ_{ij},\forall j'\neq j)}_{(∵\:ɛ_{ik}\overset{iid}{\sim}EV\:I)}=\underbrace{\underset{j'\neq j}{\Pi}\Pr(ɛ_{ij'}\leq u_{ij}-u_{ij'}+ɛ_{ij})}_{(∵\:ɛ_{ik}\overset{iid}{\sim}EV\:I)}=\underset{j'\neq j}{\Pi}e^{-e^{-(u_{ij}-u_{ij'}+ɛ_{ij})}}$.</p>
-<p>Then, $\text{P}_{ij}=\int_{-\infty}^{\infty}(\text{P}_{ij}|ɛ_{ij})f(ɛ_{ij})dɛ_{ij}=\int_{-\infty}^{\infty}\underset{j'\neq j}{\Pi}e^{-e^{-(u_{ij}-u_{ij'}+ɛ_{ij})}}e^{-ɛ_{ij}}e^{-e^{-ɛ_{ij}}}dɛ_{ij}=\int_{-\infty}^{\infty}e^{\underset{j'\neq j}{\sum}e^{-(u_{ij}-u_{ij'}+\varepsilon_{ij})}}e^{-\varepsilon_{ij}}e^{-e^{-\varepsilon_{ij}}}d\varepsilon_{ij}=\int_{-\infty}^{\infty}e^{\underset{j'}{\sum}e^{-(u_{ij}-u_{ij'}+ɛ_{ij})}}e^{-ɛ_{ij}}dɛ_{ij}\:(∵\:e^{-e^{-ɛ_{ij}}}=e^{-e^{-(u_{ij}-u_{ij}+ɛ_{ij})}})$. Upon reaching here, observe that if $t=-e^{-ɛ_{ij}}$, then $\frac{dt}{dɛ_{ij}}=e^{-ɛ_{ij}}⇒dt=e^{-ɛ_{ij}}d\varepsilon_{ij}$, $t→-\infty$ as $ɛ_{ij}→∞$, and $t→0$ as $ɛ_{ij}→-∞$. Now, we can rewrite $P_{ij}$ as follows :</p>
-<p>$P_{ij}=\int_{-\infty}^{\infty}e^{e^{ɛ_{ij}}\underset{j'}{\sum}e^{-(u_{ij}-u_{ij'})}}e^{-ɛ_{ij}}dɛ_{ij}=\int_{-∞}^{0}e^{t\underset{j'}{\sum}e^{-(u_{ij}-u_{ij'})}}dt=\frac{e^{t\underset{j'}{\sum}e^{-(u_{ij}-u_{ij'})}}}{\underset{j'}{\sum}e^{-(u_{ij}-u_{ij'})}}\Bigr\vert_{-∞}^{0}=\frac{1}{\underset{j'}{\sum}e^{-(u_{ij}-u_{ij'})}}=\frac{e^{u_{ij}}}{\underset{j}{\sum}e^{u_{ij}}}$.</p>
-<p>Thus, we have derived the multinomial logistic distribution from assuming Gumbel distribution of error terms.</p>
+<p>Then, 
+\begin{align*}
+\text{P}_{ij} &amp; =\int_{-\infty}^{\infty}(\text{P}_{ij}|ɛ_{ij})f(ɛ_{ij})dɛ_{ij}=\int_{-\infty}^{\infty}\underset{j'\neq j}{\Pi}e^{-e^{-(u_{ij}-u_{ij'}+ɛ_{ij})}}e^{-ɛ_{ij}}e^{-e^{-ɛ_{ij}}}dɛ_{ij}\\
+&amp;=\int_{-\infty}^{\infty}e^{\underset{j'\neq j}{\sum}e^{-(u_{ij}-u_{ij'}+\varepsilon_{ij})}}e^{-\varepsilon_{ij}}e^{-e^{-\varepsilon_{ij}}}d\varepsilon_{ij}=\int_{-\infty}^{\infty}e^{\underset{j'}{\sum}e^{-(u_{ij}-u_{ij'}+ɛ_{ij})}}e^{-ɛ_{ij}}dɛ_{ij}\\
+&amp;(∵\:e^{-e^{-ɛ_{ij}}}=e^{-e^{-(u_{ij}-u_{ij}+ɛ_{ij})}})
+\end{align*}
+. Upon reaching here, observe that if $t=-e^{-ɛ_{ij}}$, then $\frac{dt}{dɛ_{ij}}=e^{-ɛ_{ij}}⇒dt=e^{-ɛ_{ij}}d\varepsilon_{ij}$, $t→-\infty$ as $ɛ_{ij}→∞$, and $t→0$ as $ɛ_{ij}→-∞$. Now, we can rewrite $P_{ij}$ as follows :</p>
+\begin{align*}
+P_{ij}&amp;=\int_{-\infty}^{\infty}e^{e^{ɛ_{ij}}\underset{j'}{\sum}e^{-(u_{ij}-u_{ij'})}}e^{-ɛ_{ij}}dɛ_{ij}=\int_{-∞}^{0}e^{t\underset{j'}{\sum}e^{-(u_{ij}-u_{ij'})}}dt\\
+&amp;=\frac{e^{t\underset{j'}{\sum}e^{-(u_{ij}-u_{ij'})}}}{\underset{j'}{\sum}e^{-(u_{ij}-u_{ij'})}}\Bigr\vert_{-∞}^{0}=\frac{1}{\underset{j'}{\sum}e^{-(u_{ij}-u_{ij'})}}=\frac{e^{u_{ij}}}{\underset{j}{\sum}e^{u_{ij}}}.
+\end{align*}<p>Thus, we have derived the multinomial logistic distribution from assuming Gumbel distribution of error terms.</p>
+<h2 id="Extension-to-the-nested-logit-model">Extension to the nested logit model<a class="anchor-link" href="#Extension-to-the-nested-logit-model">&#182;</a></h2><p>Using the same process, we can derive the nested logit formula, since nested logit is just introducing multinomial logit like relation between subsets (nests) and again within the subset. However, we have to find out what is the counterpart of the utility in the logit model. We have to come up with the representative utility from choosing the nest. The one Ben-Akiva (1973) came up with the expectation of the utility from the nest. If you choose one nest, then you would probably choose the good that gives the best utility within. Let the subsets are $A_{1},\dots,A_{K}$ and for each $l=1,\dots,K,$ $A_{l}=\{1_{l},\dots,J_{l}\}$, where the number in the subset is the number tag of goods. Then, we can write the expectation as $\mathbb{E}(\underset{j\in A_{l}}{\max}\:u_{ij}+ɛ_{ij})$. Since $\max\:u_{ij}+ɛ_{ij}$ is itself a random variable, we have to find out the distribution to calculate the expectation. For convenience, we will drop the individual $i$ index. For a little bit more of generality, let's introduce the scale parameter of Gumbel distribution, $λ$. Then, we can assume $ɛ_{j}\overset{iid}{\sim}EV(I)$ and $\Pr(ɛ_{j}\leq x)=e^{-e^{-\frac{x}{λ}}}$.
+\begin{align*}
+    \Pr(\underset{j\in A_{l}}{\max}\:u_{j}+ɛ_{j}\leq x)&amp;=\Pr(ɛ_{1_{l}}\leq x-u_{1_{l}},\dots,ɛ_{J_{l}}\leq x-u_{J_{l}})\\
+    &amp;=\underset{j\in A_{l}}{\Pi}e^{-e^{-\frac{(x-u_{j})}{λ}}}=e^{-e^{-\frac{x}{λ}}\underset{j\in A_{l}}{\sum}e^{\frac{u_{j}}{λ}}}.
+\end{align*}
+By letting $\underset{j\in A_{l}}{\sum}e^{\frac{u_{j}}{λ}}=:L$, we can write the c.d.f. as $e^{-Le^{-\frac{x}{λ}}}=:H(x)$. Then, the p.d.f. will be $\frac{\partial{}}{\partial{x}}e^{-Le^{-\frac{x}{\lambda}}}=e^{-Le^{-\frac{x}{\lambda}}}(-Le^{-\frac{x}{λ}})(-\frac{1}{λ})=\frac{L}{λ}e^{-\frac{x}{\lambda}}e^{-Le^{-\frac{x}{\lambda}}}=:h(x)$.</p>
+<p>To calculate the expected utility of the subset, we need one more mathematical result, which is a Laplace transformation.
+\begin{align*}
+\int_{0}^{\infty}e^{-st}ln(t)dt=-\frac{ln(s)+\gamma}{s}
+\end{align*}
+, where $\gamma$ is Euler-Mascheroni constant $\approx 0.5772$.
+Now, by using similar trick that was used in multinomial logit which is $t=e^{-\frac{x}{\lambda}}⇒\frac{dt}{dx}=\frac{de^{-\frac{x}{λ}}}{dx}=-\frac{1}{λ}e^{-\frac{x}{λ}}⇒dt=-\frac{1}{λ}e^{-\frac{x}{λ}}dx$ and $x→∞⇒t→0$, $x→-\infty⇒t→∞$, we can calculate the expected utility of the subset.
+\begin{align*}
+\mathbb{E}(\underset{j\in A_{l}}{\max}\:u_{ij}+ɛ_{ij})&amp;=\int_{-∞}^{∞}xh(x)dx=\int_{-∞}^{∞}x\frac{L}{λ}e^{-\frac{x}{\lambda}}e^{-Le^{-\frac{x}{\lambda}}}dx\\
+&amp;=\int_{\infty}^{0}(-λ\ln(t))(-Le^{-Lt})dt=-λL\int_{0}^{\infty}\ln(t)e^{-Lt}dt\\
+&amp;=-λL\left(-\frac{\ln(L)+γ}{L}\right)=λ\ln(L)+λγ\\
+&amp;=\lambda\ln(\underset{j\in A_{l}}{\sum}e^{\frac{u_{j}}{λ}})+λγ
+\end{align*}
+Since $λγ$ part doesn't matter since the important part is the difference between the subsets, we can denote the consumer surplus associated with the subset $A_{l}$ as $S_{l}:=λ\ln\underset{j\in A_{l}}{\sum}e^{\frac{u_{j}}{λ}}$. Now, we can come up with the choice probability of certain nest $l$ just as the same as the derivation of multinomial logit choice probability.
+\begin{align*}
+P_{il}:=\frac{e^{\frac{S_{l}}{\mu}}}{\underset{k=1}{\overset{K}{\sum}e^{\frac{S_{k}}{\mu}}}},
+\end{align*}
+where $\mu$ is the scale parameter for the first stage. Then, now, the probability of agent $i$ choosing $j$-th good in $A_{l}$ nest given that the nest is chosen will be
+\begin{align*}
+P_{ij|A_{l}}=\frac{e^{\frac{u_{ij}}{λ}}}{\underset{j\in A_{l}}{\sum}e^{\frac{u_{ij}}{λ}}},
+\end{align*}
+and thus, since the choice probability of good $j$ will be $P_{ij}=P_{il}P_{ij|A_{l}}$,
+\begin{align*}
+P_{ij}=\frac{e^{\frac{S_{l}}{\mu}}}{\underset{k=1}{\overset{K}{\sum}e^{\frac{S_{k}}{\mu}}}}\frac{e^{\frac{u_{ij}}{λ}}}{\underset{j\in A_{l}}{\sum}e^{\frac{u_{ij}}{λ}}}.
+\end{align*}</p>
 
 </div>
 </div>
