@@ -27,7 +27,9 @@ $$Definition4\: (union)\: A\cup B:=\{x\in A\:\text{ or }x\in B\}$$
 
 $$Definition5\: (intersection)\: A\cap B:=\{x\in A\:\text{ and }x\in B\}$$
 
-- It is important to note that $$A\subseteq E$$ or $$A\subseteq E'$$, then $$A\subseteq E\cup E'$$ but not the reverse.
+- It is important to note that $$A\subseteq E$$ or $$A\subseteq E'$$, then $$A\subseteq E\cup E'$$ but not the converse.
+
+- However, $$A\subseteq E$$ and $$A\subseteq E'$$ $$⇔$$ $$A\subseteq E\cap E'$$.
 
 $$Theorem1\: (Commutative,\: Associative,\: Distributive\:Law)\:$$
 
