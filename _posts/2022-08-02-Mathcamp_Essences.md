@@ -27,6 +27,8 @@ $$Definition4\: (union)\: A\cup B:=\{x\in A\:\text{ or }x\in B\}$$
 
 $$Definition5\: (intersection)\: A\cap B:=\{x\in A\:\text{ and }x\in B\}$$
 
+- It is important to note that $$A\subseteq E$$ or $$A\subseteq E'$$, then $$A\subseteq E\cup E'$$ but not the reverse.
+
 $$Theorem1\: (Commutative,\: Associative,\: Distributive\:Law)\:$$
 
 (1) Commutative Law: $$A\cup B=B\cup A$$ and $$A\cap B=B\cap A$$
@@ -43,7 +45,7 @@ $$(A\cup B)\cap C=(A\cap C)\cup(B\cap C)$$
 
 $$(A\cap B)\cup C=(A\cup C)\cap(B\cup C)$$
 
-$$Definition6\: (disjoint)\: A\text{ and }B\text{ are disjoint if }A\cap B=\phi.$$
+$$Definition6\: (disjoint)\:$$ $$A$$ and $$B$$ are disjoint if $$A\cap B=\phi.$$
 
 $$Definition7\: (pairwise\: disjoint)$$
 A family of sets, $$\{A_{i},\:i=1,\dots,n\}$$, is pairwise disjoint if $$\forall i\neq j, \:i,j=1,\dots,n,\: A_{i}\cap A_{j}=\phi.$$
