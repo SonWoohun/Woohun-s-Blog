@@ -222,6 +222,9 @@ excerpt_separator: "\n\n"
 incremental: false
 permalink: /:year-:month-:day-:title/
 paginate: 5
+future: false
+unpublished: false
+safe: true
 
 kramdown:
   input: GFM
@@ -254,6 +257,8 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - vendor/
+  - .bundle/
 
 plugins:
   - jekyll-paginate
